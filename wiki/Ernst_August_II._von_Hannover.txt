@@ -1,0 +1,308 @@
+
+
+
+
+Ernst August II. von Hannover – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ernst_August_II._von_Hannover","wgTitle":"Ernst August II. von Hannover","wgCurRevisionId":188295441,"wgRevisionId":188295441,"wgArticleId":1038127,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Duke of York and Albany","Earl of Ulster","Ritter des Hosenbandordens","Evangelischer Bischof (18. Jahrhundert)","Bischof von Osnabrück","Welfen (Linie Hannover)","Geboren 1674","Gestorben 1728","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November",
+"Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Ernst_August_II._von_Hannover","wgRelevantArticleId":1038127,"wgRequestId":"XWPotgpAICoAAAUxuEoAAABR","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":188295441,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q655521",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup",
+"mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ernst August II. von Hannover
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+ Ernst August, Fürstbischof von Osnabrück
+Ernst August II. von Hannover, Herzog von York und Albany, Fürstbischof von Osnabrück, KG (* 17. September 1674 in Osnabrück; † 14. August 1728 ebenda) war ein Fürst aus dem Haus Hannover.
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Ahnentafel
+3 Literatur
+4 Weblinks
+5 Einzelnachweise
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Ernst August war der jüngste Sohn von Ernst August von Hannover, Kurfürst von Braunschweig-Lüneburg und Sophie von der Pfalz. Er war ein jüngerer Bruder von König Georg I. von Großbritannien, Kurfürst von Hannover. 
+Am 3. Juli 1716 wurde er zum Ritter des Hosenbandorden und zwei Tage später zum Herzog von York und Albany und Earl of Ulster erhoben. Im Gegensatz zu seinen vier älteren Brüdern hatte er sich nie dem 1684 vom Vater beschlossenen Übergang von der Erbteilung zur Primogenitur widersetzt und daher ein gutes Verhältnis zu seinem ältesten Bruder bewahrt. 
+Ernst August war von 1716 bis 1728 regierender Fürstbischof von Osnabrück. In Hilter am Teutoburger Wald förderte er den Steinkohlenbergbau.
+Ernst August blieb unverheiratet. Seine Korrespondenz mit Johann Franz von Wendt (1678–1740), dem Vater der Amalie Sophie von Wallmoden, wurde als Beweis für ein homosexuelles Verhältnis gedeutet. 
+Ernst August starb ein Jahr nach seinem königlichen Bruder, wie dieser im Osnabrücker Schloss, und wurde ebenfalls in der Kapelle des Leineschlosses in Hannover beigesetzt. Der Sarkophag wurde nach dem Zweiten Weltkrieg in das Welfenmausoleum im Berggarten in Herrenhausen überführt, zusammen mit dem seines Bruders Georg I. und denen der Eltern.[1]
+
+Ahnentafel[Bearbeiten | Quelltext bearbeiten]
+
+
+Ahnentafel Herzog Ernst August II.
+
+
+Urgroßeltern
+
+
+HerzogWilhelm d. J. von Braunschweig-Lüneburg(1535–1592)
+⚭ 1561
+Dorothea von Dänemark(1546–1617)
+
+
+
+LandgrafLudwig V. von Hessen-Darmstadt(1577–1626)
+⚭ 1598
+Madgalena von Brandenburg(1582–1616)
+
+
+
+KurfürstFriedrich IV. von der Pfalz(1574–1610)
+⚭ 1593
+Luise Juliana von Oranien-Nassau(1576–1644)
+
+
+
+
+KönigJakob I. von England(1566–1625)
+⚭ 1589
+Anna von Dänemark(1574–1619)
+
+
+
+Großeltern
+
+
+HerzogGeorg von Braunschweig-Calenberg (1582–1641)
+⚭ 1617
+Anna Eleonore von Hessen-Darmstadt (1601–1659)
+
+
+
+KurfürstFriedrich V. von der Pfalz (1596–1632) „Winterkönig“
+⚭ 1612
+Elisabeth Stuart (1596–1662)
+
+
+
+Eltern
+
+
+Herzog/KurfürstErnst August von Braunschweig-Calenberg (1629–1698)
+⚭ 1658
+Sophie von der Pfalz (1630–1714)
+
+
+
+
+Herzog Ernst August II. (1674–1728)
+
+
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Max Bär: Ernst August II. In: Allgemeine Deutsche Biographie (ADB). Band 48, Duncker & Humblot, Leipzig 1904, S. 399–402.
+Heinrich Schmidt: Ernst August II., Herzog von Braunschweig-Lüneburg. In: Neue Deutsche Biographie (NDB). Band 4, Duncker & Humblot, Berlin 1959, ISBN 3-428-00185-0, S. 617 f. (Digitalisat).
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Commons: Ernest Augustus, Duke of York and Albany – Sammlung von Bildern, Videos und Audiodateien
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+
+↑ Helmut Knocke, Hugo Thielen: Mausoleum. [In:] Hannover Kunst- und Kultur-Lexikon, S. 92.
+
+
+VorgängerAmtNachfolgerKarl Joseph von LothringenFürstbischof von Osnabrück 1716–1728Clemens August I. von BayernTitel neu geschaffenDuke of York and AlbanyEarl of Ulster 1716–1728Titel erloschen
+Normdaten (Person): GND: 104207272 (OGND, AKS)    | VIAF: 54579325   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Ernst August II. von Hannover
+
+
+KURZBESCHREIBUNG
+
+Bischof von Osnabrück
+
+
+GEBURTSDATUM
+
+7. September 1674
+
+
+GEBURTSORT
+
+Osnabrück
+
+
+STERBEDATUM
+
+14. August 1728
+
+
+STERBEORT
+
+Osnabrück
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Ernst_August_II._von_Hannover&oldid=188295441“
+Kategorien: Duke of York and AlbanyEarl of UlsterRitter des HosenbandordensEvangelischer Bischof (18. Jahrhundert)Bischof von OsnabrückWelfen (Linie Hannover)Geboren 1674Gestorben 1728Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+In anderen Projekten
+
+
+Commons 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+ČeštinaΕλληνικάEnglishFrançaisItaliano日本語PortuguêsРусский 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 6. Mai 2019 um 17:25 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.258","ppvisitednodes":{"value":1029,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7170,"limit":2097152},"templateargumentsize":{"value":1241,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":338,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  193.925      1 -total"," 33.20%   64.385      1 Vorlage:Commonscat"," 32.95%   63.906      3 Vorlage:Wikidata-Registrierung"," 21.42%   41.531      1 Vorlage:ADB"," 15.84%   30.720      1 Vorlage:Folgenleiste_multi"," 14.77%   28.639      1 Vorlage:NDB"," 11.41%   22.126      1 Vorlage:Str_rightc","  9.71%   18.823      1 Vorlage:Normdaten","  4.80%    9.308      1 Vorlage:NDB/Seite","  4.70%    9.106      1 Vorlage:NDB/Jahr"]},"scribunto":{"limitreport-timeusage":{"value":"0.036","limit":"10.000"},"limitreport-memusage":{"value":1290905,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20190728170605","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Ernst August II. von Hannover","url":"https:\/\/de.wikipedia.org\/wiki\/Ernst_August_II._von_Hannover","sameAs":"http:\/\/www.wikidata.org\/entity\/Q655521","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q655521","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-09T16:05:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/82\/Ernest_August%2C_Duke_of_York_%281674-1728%29.jpg","headline":"Bischof von Osnabr\u00fcck"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1321"});});
+
+

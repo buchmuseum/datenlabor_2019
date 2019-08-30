@@ -1,0 +1,228 @@
+
+
+
+
+Basileios Komnenos der Jüngere – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Basileios_Komnenos_der_Jüngere","wgTitle":"Basileios Komnenos der Jüngere","wgCurRevisionId":182241904,"wgRevisionId":182241904,"wgArticleId":9238026,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:GND fehlt 2018-06","Kaiserreich Trapezunt","Person (Trabzon)","Komnenen","Despot","Geboren 1358","Gestorben im 14. Jahrhundert","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.",
+"Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Basileios_Komnenos_der_Jüngere","wgRelevantArticleId":9238026,"wgRequestId":"XWZjBQpAADgAACq3bHcAAAAI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":182241904,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q22342926","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":
+!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus",
+"ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basileios Komnenos der Jüngere
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+Basileios Komnenos (mittelgriechisch Βασίλειος Κομνηνός; * 17. September 1358 in Trapezunt; † vor September 1377 ebenda) war ein Kronprinz im Kaiserreich Trapezunt.
+Basileios war der älteste legitime Sohn des trapezuntischen Kaisers Alexios III. Komnenos und der Theodora Kantakuzena;[1] er war somit ein Enkel des gleichnamigen Kaisers Basileios Komnenos. Von seinem Vater wurde er zu einem unbekannten Zeitpunkt zum Despoten erhoben und zum Thronfolger designiert. Basileios starb vor der Hochzeit seines jüngeren Bruders Manuel im September 1377. Dieser übernahm nach dem Tode Alexios’ III. 1390 die Herrschaft über Trapezunt.
+
+Quellen[Bearbeiten | Quelltext bearbeiten]
+Michael Panaretos 73 (ed. Odysseus Lampsides, 1958)
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Michel Kuršanskis: Relations matrimoniales entre Grands Comnènes de Trébizonde et princes géorgiens. In: Bedi Kartlisa. Revue de Kartvelologie. 34, 1976, ISSN 0373-1537, S. 112–127, hier: S. 119.
+Erich Trapp, Rainer Walther, Hans-Veit Beyer: Prosopographisches Lexikon der Palaiologenzeit. 5. Faszikel: Κ... – Κομνηνούτζικος (= Veröffentlichungen der Kommission für Byzantinistik. Band 1/5). Österreichische Akademie der Wissenschaften, Wien 1981, ISBN 3-7001-0330-1, S. 225, Nr. 12089.
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Basileios Komnenos auf Medieval Lands
+Anmerkungen[Bearbeiten | Quelltext bearbeiten]
+
+↑ Vgl. PLP 5, S. 225.
+
+
+Normdaten (Person):        Wikipedia-Personensuche | Kein GND-Personendatensatz. Letzte Überprüfung: 29. Juni 2018.
+
+
+Personendaten
+
+
+NAME
+
+Basileios Komnenos der Jüngere
+
+
+ALTERNATIVNAMEN
+
+Basileios Komnenos; Βασίλειος Κομνηνός (mittelgriechisch)
+
+
+KURZBESCHREIBUNG
+
+trapezuntischer Prinz, Sohn von Kaiser Alexios III.
+
+
+GEBURTSDATUM
+
+17. September 1358
+
+
+GEBURTSORT
+
+Trapezunt
+
+
+STERBEDATUM
+
+vor September 1377
+
+
+STERBEORT
+
+Trapezunt
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Basileios_Komnenos_der_Jüngere&oldid=182241904“
+Kategorien: Kaiserreich TrapezuntPerson (Trabzon)KomnenenDespotGeboren 1358Gestorben im 14. JahrhundertMannVersteckte Kategorie: Wikipedia:GND fehlt 2018-06
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+Polski 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 28. Oktober 2018 um 22:09 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.208","ppvisitednodes":{"value":363,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2878,"limit":2097152},"templateargumentsize":{"value":712,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":277,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  172.907      1 -total"," 41.89%   72.436      1 Vorlage:Normdaten"," 35.31%   61.061      1 Vorlage:ELSmit2"," 33.00%   57.063      1 Vorlage:Lang"," 17.17%   29.682      1 Vorlage:FormatDate"," 11.18%   19.329      1 Vorlage:ISSN"," 11.08%   19.153      2 Vorlage:Wikidata-Registrierung"," 10.01%   17.311      2 Vorlage:Str_left","  4.59%    7.938      1 Vorlage:Personendaten","  2.63%    4.545      4 Vorlage:Str_trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":1521129,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20190828111829","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Basileios Komnenos der J\u00fcngere","url":"https:\/\/de.wikipedia.org\/wiki\/Basileios_Komnenos_der_J%C3%BCngere","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22342926","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22342926","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-01-25T01:47:08Z","headline":"trapezuntischer Prinz, Sohn von Kaiser Alexios III."}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":364,"wgHostname":"mw1261"});});
+
+

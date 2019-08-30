@@ -1,0 +1,261 @@
+
+
+
+
+Samuel Heinrich König – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Samuel_Heinrich_König","wgTitle":"Samuel Heinrich König","wgCurRevisionId":190515146,"wgRevisionId":190515146,"wgArticleId":686137,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Reformierter Theologe (17. Jahrhundert)","Reformierter Theologe (18. Jahrhundert)","Pietist","Person (Büdingen)","Schweizer","Geboren 1671","Gestorben 1750","Mann","Person des Christentums (Hessen)","Person des Christentums (Schweiz)","Person (Bern)"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August",
+"September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Samuel_Heinrich_König","wgRelevantArticleId":686137,"wgRequestId":"XWQEsgpAAEUAAAfXxusAAAAB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":190515146,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":
+"Q121924","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc",
+"mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samuel Heinrich König
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+ Samuel König
+Samuel Heinrich König (* 17. September 1671 in Gerzensee im Kanton Bern; † 30. Mai 1750 in Bern) war ein reformierter Theologe pietistischer Richtung, zudem Professor der Orientalistik und Mathematik. Er war der Vater des Mathematikers Johann Samuel König.
+
+Inhaltsverzeichnis
+
+1 Leben
+
+1.1 1671–1693: Jugend und Ausbildung
+1.2 1693–1698: Pfarramt in Bern
+1.3 1698–1730: Exil
+1.4 1730–1750: Professur in Bern
+
+
+2 Werke
+3 Literatur
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+1671–1693: Jugend und Ausbildung[Bearbeiten | Quelltext bearbeiten]
+Samuel Heinrich König war der Sohn Samuel Königs, des Pfarrers von Gerzensee im Kanton Bern. Früh schon wurde er als ein Wunder der Gelehrsamkeit, welcher in allem Wissbaren seines Gleichen suche, anerkannt. Seine Bildung erhielt er erst in Bern, wo er bereits eine Vorliebe für das Studium der orientalischen Sprachen an den Tag legte, dann in Zürich und auf einer wissenschaftlichen Reise in die Niederlande und nach England. In England wurde er geprägt durch eine schwärmerische Mystik mit chiliastischen Zügen.
+
+1693–1698: Pfarramt in Bern[Bearbeiten | Quelltext bearbeiten]
+Zurück in Bern, wurde er ins Pfarramt aufgenommen und 1693 als Oberspitalprediger an der Heiliggeistkirche angestellt. Zunächst strebte er jedoch – nicht ohne Ehrgeiz – mehr nach wissenschaftlichem Ruhm als nach kirchlichem Wirken, schloss sich aber bald immer enger an pietistische Kreise an und geriet allmählich in einen immer entschiedeneren Gegensatz gegen die in der Lehre streng orthodoxe, aber in ihren Sitten arg verwahrloste Geistlichkeit.
+Von der kirchlichen Oberbehörde verfolgt, von dem toleranteren Schulrat anfangs in Schutz genommen, wurde König schliesslich auch von der Regierung mit Misstrauen angesehen, 1698 nebst einigen Gesinnungsgenossen von einer eigens eingesetzten Religionscommission verhört, bedroht, seines Amtes erhoben, des Bürgerrechts verlustig erklärt und des Landes verwiesen. Die dadurch entstandenen politischen Unruhen wurden durch die Pflicht eines sogenannten Associations-Eides bekämpft, durch welchen sich alle kirchlichen und staatlichen Beamten feierlich zur Unterdrückung jeder religiösen Neuerung verpflichteten.
+
+1698–1730: Exil[Bearbeiten | Quelltext bearbeiten]
+König begab sich zunächst nach Herborn, wo er wahrscheinlich ein Amt zu finden hoffte, doch als schweizerischer Erzverführer und Erzketzer wurde er auch von dort vertrieben, wandte sich nach Berleburg, Halle und Magdeburg. Zwölf Jahre lang blieb er so ohne Anstellung, bis er 1711 vom Grafen von Isenburg-Büdingen als Pfarrer und Hofprediger aufgenommen wurde. Hier wandte er sich, ruhiger geworden, wieder vermehrt der Wissenschaft zu, schrieb ein griechisch-hebräisches Wörterbuch und einige theologische Schriften. König heiratete am 13. August 1711 Anna Maria Nöthiger. Seine Frau gebar in Büdingen die neun Kinder Johann Samuel (* 31. Juli 1712), Gottlieb Ludwig (* 17. Dezember 1713), Margarethe Salome (* 20. Dezember 1715), Juliana Henriette (* 19. Dezember 1717), Susanna Henriette (* 11. Juni 1719), Henriette (* 24. Juli 1720), Auguste Albertina (* 25. Mai 1722), J. Daniel (* 13. September 1725) und Maria Barbara (* 29. September 1727). König legte 1715 sein Amt nieder, blieb aber in Büdingen wohnen. Von 1720 bis 1730 versah er die Gemeinde in Waldensberg (jetzt Wächtersbach).
+
+1730–1750: Professur in Bern[Bearbeiten | Quelltext bearbeiten]
+Erst 1730 durfte König nach Bern zurückkehren, wo sich die Stimmung etwas zu seinen Gunsten verändert hatte. Er wurde Professor der orientalischen Sprachen und der Mathematik an der Hohen Schule. Sein geistliches Wirken gab er indessen nicht auf und machte selbst noch grössere Reisen zu diesem Zweck. Im Jahre 1744 musste er erleben, wie zwei seiner Söhne zusammen mit Samuel Henzi wegen Beteiligung an einer politischen, gegen die Oligarchie der Patrizier gerichteten Bewegung gleich ihm das Land verlassen mussten.
+
+Werke[Bearbeiten | Quelltext bearbeiten]
+Dissertatio theologica de foedere et testamento Dei (1692)
+Specimen disputationem germaricarum, excerptum ex codice talmudico Beracoth (1696)
+Der Weg des Friedens (1700)
+Passions-Gedancken zu Erbauung Heils-Begieriger Seelen einfältig mitgeteilet … (1707)
+Theologisches Prognostikon vom Untergang des türkischen Reichs (1717)
+Etymologicon Helleno-Hebraeum (1722)
+Grundsätze von der allgemeinen Gnade Gottes … (1723)
+Erklärung der ersten Epistel Johannis (1726)
+Theologica mystica (1730)
+Dissertatio philologico-theologica de ritu et mysterio circumcensionis … (1731)
+Oratio inauguralis de mysterio Christi et ecclesiae (1731)
+Drey Christliche Predigten (1732)
+Pemptas conconium sacrarum (1733)
+Betrachtungen des inwendigen Reiches Gottes (1734)
+Schrifft-mäßiger Bericht von dem wahren und lebendigen Glauben und dem Evangelischen Lehramt (1737, ²1742)
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Rudolf Dellsperger: König, Samuel. In: Historisches Lexikon der Schweiz.
+Emil Blösch: König, Samuel. In: Allgemeine Deutsche Biographie (ADB). Band 16, Duncker & Humblot, Leipzig 1882, S. 520 f.
+Rudolf Dellsperger: König, Samuel. In: Neue Deutsche Biographie (NDB). Band 12, Duncker & Humblot, Berlin 1980, ISBN 3-428-00193-1, S. 349 f. (Digitalisat).
+Susanne Siebert: König, Samuel Heinrich. In: Biographisch-Bibliographisches Kirchenlexikon (BBKL). Band 4, Bautz, Herzberg 1992, ISBN 3-88309-038-7, Sp. 284–286. (Artikel/Artikelanfang im Internet-Archive)
+Normdaten (Person): GND: 136127320 (OGND, AKS)    | VIAF: 80524592   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+König, Samuel Heinrich
+
+
+KURZBESCHREIBUNG
+
+Mathematiker, Orientalist und pietistischer Theologe
+
+
+GEBURTSDATUM
+
+17. September 1671
+
+
+GEBURTSORT
+
+Gerzensee, Kanton Bern
+
+
+STERBEDATUM
+
+30. Mai 1750
+
+
+STERBEORT
+
+Bern
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Samuel_Heinrich_König&oldid=190515146“
+Kategorien: Reformierter Theologe (17. Jahrhundert)Reformierter Theologe (18. Jahrhundert)PietistPerson (Büdingen)SchweizerGeboren 1671Gestorben 1750MannPerson des Christentums (Hessen)Person des Christentums (Schweiz)Person (Bern)
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+EspañolLatina 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 17. Juli 2019 um 20:40 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.194","ppvisitednodes":{"value":748,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5153,"limit":2097152},"templateargumentsize":{"value":1165,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  153.820      1 -total"," 40.19%   61.817      1 Vorlage:Normdaten"," 24.16%   37.163      1 Vorlage:HLS"," 19.87%   30.564      2 Vorlage:Str_replace"," 12.73%   19.586      1 Vorlage:NDB"," 11.44%   17.602      1 Vorlage:ADB","  6.68%   10.273      1 Vorlage:Personendaten","  6.20%    9.540      2 Vorlage:Wikidata-Registrierung","  4.45%    6.839      1 Vorlage:BBKL","  3.73%    5.731      1 Vorlage:NDB/Seite"]},"scribunto":{"limitreport-timeusage":{"value":"0.025","limit":"10.000"},"limitreport-memusage":{"value":1472230,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190728210117","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Samuel Heinrich K\u00f6nig","url":"https:\/\/de.wikipedia.org\/wiki\/Samuel_Heinrich_K%C3%B6nig","sameAs":"http:\/\/www.wikidata.org\/entity\/Q121924","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q121924","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-11T01:10:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/04\/SamuelK%C3%B6nig.jpg","headline":"Mathematiker, Orientalist und pietistischer Theologe"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1274"});});
+
+

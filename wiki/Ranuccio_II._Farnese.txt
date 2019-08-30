@@ -1,0 +1,253 @@
+
+
+
+
+Ranuccio II. Farnese – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ranuccio_II._Farnese","wgTitle":"Ranuccio II. Farnese","wgCurRevisionId":182440267,"wgRevisionId":182440267,"wgArticleId":524842,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Belege fehlen","Farnese","Herzog (Parma)","Herzog (Piacenza)","Historische Person (Italien)","Geboren 1630","Gestorben 1694","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.",
+"Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Ranuccio_II._Farnese","wgRelevantArticleId":524842,"wgRequestId":"XWYG@QpAICIAAG3VBA8AAABX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":182440267,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q555008","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles"
+:"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap",
+"ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ranuccio II. Farnese
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+
+
+
+
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+
+ Ranuccio II. Farnese, Herzog von Parma und Piacenza
+Ranuccio II. Farnese (* 17. September 1630; † 11. Dezember 1694) war von 1646 bis 1694 Herzog von Parma und Piacenza und gehörte dem in Parma und Piacenza regierenden herzoglichen Hause Farnese an.
+
+Inhaltsverzeichnis
+
+1 Leben
+
+1.1 Außenpolitik
+1.2 Innenpolitik
+
+
+2 Ehen und Nachkommen
+3 Weblinks
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Da der Sohn von Herzog Odoardo I. Farnese und Prinzessin Margherita de’ Medici (1612–1679) beim Tode des Vaters 1646 noch minderjährig war, führten Mutter und Onkel, Kardinal Francesco Maria Farnese (1619–1647), die Regentschaft, bis er 1648 das achtzehnte Lebensjahr erreichte. Die französische Regierung bot ihm die Ehe mit einer Nichte Kardinal Mazarins an; trotz der politischen und finanziellen Vorteile, die damit verbunden gewesen wären, lehnte Ranuccio ab, da er sich eine Braut aus souveränem Haus wünschte. Im bis 1659 währenden Krieg zwischen Frankreich und Spanien blieb er neutral, musste aber die Durchquerung seines Territoriums durch deren Truppen zulassen.
+
+Außenpolitik[Bearbeiten | Quelltext bearbeiten]
+1649 brach der zweite Krieg um Castro aus. Ohne Zustimmung Herzog Ranuccios hatte Papst Innozenz X. Cristoforo Giarda in dessen Domäne Castro, einem päpstlichen Lehen, als Bischof eingesetzt. Als Giarda noch vor seiner Ankunft in der Diözese am 19. März 1649 ermordet wurde, schob der Papst die Schuld dem Herzog zu, ließ Castro belagern und dem Erdboden gleichmachen. Auch in der darauffolgenden Schlacht nahe Bologna blieben die Päpstlichen siegreich. 1650 wurde Castro als erledigtes Pontifikallehen eingezogen.
+1657 gelang es Ranuccio, einen Rückkaufvertrag über Castro abzuschließen. Da es ihm aber am nötigen Geld fehlte, verblieb das Herzogtum beim Papst und wurde 1659 im Pyrenäenfrieden als päpstlicher Besitz bestätigt, allerdings mit einer Rückkaufoption für Parma auf acht Jahre. In der Folgezeit versuchte Ranuccio auf jede mögliche Art und Weise, an Geld für den Rückkauf zu kommen; doch die der Kurie 1666 schließlich angebotene Summe von 814.865 Scudi wurde als zu gering abgelehnt und die Einziehung Castros definitiv ausgesprochen.
+Ranuccio hatte seine Pläne für Castro endgültig aufgegeben, kaufte aber für das Geld 1672 das Fürstentum Bardi und Compiano, womit das parmesische Herzogtum letztmals erweitert wurde. Teilweise noch zu dessen Lebzeiten wurde im Pfälzischen Erbfolgekrieg von 1689 bis 1697 das neutrale Parma von kaiserlichen Truppen unter Prinz Eugen von Savoyen durchzogen und geplündert, auch unter Begehung von Verbrechen an der Zivilbevölkerung.
+
+Innenpolitik[Bearbeiten | Quelltext bearbeiten]
+Innenpolitisch war Ranuccio II. um Modernisierung bemüht. Er erließ zur Verringerung der Arbeitslosigkeit ein Exportverbot für unverarbeitete Seide, führte eine Gerichtsreform durch, gründete zwei Akademien sowie das Herzogliche Theater und legte eine umfangreiche Sammlung von Kunstwerken und Büchern an. Unter ihm wurden die in Rom verbliebenen Besitztümer der Farnese nach Parma transferiert. Musikalisch veranlagt, förderte er Ballett und Oper und zog den Komponisten Marco Uccellini an seinen Hof.
+
+Ehen und Nachkommen[Bearbeiten | Quelltext bearbeiten]
+Ranuccio Farnese war seit dem 29. April 1660 mit Margarete von Savoyen (* 15. November 1635; † 29. April 1663), der Tochter des Herzogs Vittorio Amadeo I. verheiratet. Sie starb im Kindbett zwei Tage nach der Geburt des zweiten Kindes, das am Tag darauf starb. Das erste Kind war schon am Tag der Geburt gestorben.
+Zum zweiten Male heiratete er am 18. Februar 1664 seine Cousine Isabella d’Este (* 3. Oktober 1635; † 21. August 1666), Tochter des Herzogs Francesco I. d’Este von Modena, mit der er drei Kinder hatte. Auch sie starb im Kindbett.
+
+Margherita Maria Farnese (* 24. November 1664; † 17. Juni 1718) ⚭ 14. Juli 1692 Francesco II. d’Este (1660–1694), Herzog von Modena
+Teresa Farnese (* 10. Oktober 1665; † 1702) ⚭ 29. Juli 1695 Gustav II. Merten (1655–1720), Graf von Merten
+Odoardo II. Farnese (1666–1693), Erbherzog von Parma und Piacenza, der vor seinem Vater starb.
+Im Oktober 1668 heiratete Ranuccio die Base Maria d’Este (* 8. Dezember 1644; † 20. August 1684), eine Halbschwester der zweiten Frau. Mit ihr hatte er sieben Kinder, von denen zwei erwachsen wurden.
+
+Francesco Farnese (1678–1727), Herzog von Parma und Piacenza ab 1694
+Antonio Farnese (1679–1731), ab 1727 letzter Herzog von Parma und Piacenza der Familie Farnese.
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Commons: Ranuccio II. Farnese – Sammlung von Bildern, Videos und Audiodateien
+VorgängerAmtNachfolgerOdoardo I. FarneseHerzog von Parma 1646–1694Francesco Farnese
+Normdaten (Person): GND: 102328102 (OGND, AKS)  | LCCN: nr00005945  | VIAF: 54535622   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Farnese, Ranuccio II.
+
+
+KURZBESCHREIBUNG
+
+Herzog von Parma und Piacenza (1646–1694)
+
+
+GEBURTSDATUM
+
+17. September 1630
+
+
+STERBEDATUM
+
+11. Dezember 1694
+
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Ranuccio_II._Farnese&oldid=182440267“
+Kategorien: FarneseHerzog (Parma)Herzog (Piacenza)Historische Person (Italien)Geboren 1630Gestorben 1694MannVersteckte Kategorie: Wikipedia:Belege fehlen
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+In anderen Projekten
+
+
+Commons 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+العربيةБългарскиBrezhonegCatalàDanskΕλληνικάEnglishEspañolFrançaisעבריתItaliano日本語NederlandsPolskiPortuguêsRomânăРусскийScotsSvenska 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 4. November 2018 um 10:50 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.190","ppvisitednodes":{"value":551,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5705,"limit":2097152},"templateargumentsize":{"value":692,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  156.441      1 -total"," 59.12%   92.489      3 Vorlage:Wikidata-Registrierung"," 57.67%   90.214      1 Vorlage:Commonscat"," 16.57%   25.929      1 Vorlage:Folgenleiste"," 15.48%   24.215      1 Vorlage:Normdaten","  5.13%    8.022      1 Vorlage:Belege_fehlen","  4.80%    7.504      1 Vorlage:Personendaten","  2.21%    3.460      1 Vorlage:Bausteindesign3"]},"scribunto":{"limitreport-timeusage":{"value":"0.048","limit":"10.000"},"limitreport-memusage":{"value":1548388,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20190828044545","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Ranuccio II. Farnese","url":"https:\/\/de.wikipedia.org\/wiki\/Ranuccio_II._Farnese","sameAs":"http:\/\/www.wikidata.org\/entity\/Q555008","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q555008","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-20T20:41:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3a\/Jacob_Denys_-_Portrait_of_Ranuccio_II.jpg","headline":"Herzog von Parma und Piacenza"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":368,"wgHostname":"mw1332"});});
+
+

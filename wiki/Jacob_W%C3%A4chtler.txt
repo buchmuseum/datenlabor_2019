@@ -1,0 +1,274 @@
+
+
+
+
+Jacob Wächtler – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jacob_Wächtler","wgTitle":"Jacob Wächtler","wgCurRevisionId":184773210,"wgRevisionId":184773210,"wgArticleId":10572967,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lutherischer Theologe (17. Jahrhundert)","Lutherischer Geistlicher (17. Jahrhundert)","Hochschullehrer (Leucorea)","Deutscher","Geboren 1638","Gestorben 1702","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.",
+"Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Jacob_Wächtler","wgRelevantArticleId":10572967,"wgRequestId":"XWUvaQpAIEIAAKZVO2EAAAAT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":184773210,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q55673465","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas",
+"ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jacob Wächtler
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+ Jacob Wächtler
+Jacob Wächtler (* 17. September 1638 in Grimma; † 4. November 1702 in Belzig) war ein deutscher lutherischer Theologe.
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Familie
+3 Werke (Auswahl)
+4 Literatur
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Wächtler stammte aus einer evangelisch-lutherischen Pfarrerfamilie. Er war der Sohn des gleichnamigen Archidiakons in Grimma (* 15. Mai 1611 in Grimma; † 17. Juni 1675 ebd.) und dessen Frau Elisabeth Margaretha Bake, einer Tochter des einstigen Superintendenten von Grimma Reinhard Bake. Seine anfängliche Ausbildung hatte er vom Vater und auf der Stadtschule seines Heimatorts erhalten. So vorbereitet, bezog er am 15. Juli 1651 die kurfürstlich sächsische Landesschule Pforta, welche neben der Landesschule in Grimma und der Landesschule St. Afra in Meißen, als Schmiede des sächsischen Pfarrer- und Beamtennachwuchses galt.
+Seine Studien begannen mit seiner Immatrikulation am 26. August 1657 an der Universität Wittenberg. Dort fand er zunächst bei dem Theologieprofessor Andreas Kunad Aufnahme und wechselte nach dessen Tod in den Haushalt von Johann Deutschmann. Neben seinen anfänglichen philosophischen Studien beschäftigte er sich auch mit theologischen Fragen. Nachdem er sich im Predigen und Disputieren geübt hatte, avancierte am 26. April 1660 zum Magister der Philosophie. Am 7. Dezember 1661 habilitierte er sich in Wittenberg als Magister legens und unterrichtete Studenten. 1662 war er ein halbes Jahr in Dresden als Hauslehrer angestellt, kehrte aber nach Wittenberg zurück, wo man ihn am 16. März 1665 als Adjunkt an die philosophische Fakultät aufnahm. Jedoch blieb er nicht lange in dieser Dozentenwartestellung auf eine Wittenberger Professur.
+Der sächsische Kurfürst Johann Georg II. berief ihn 1666 auf die vakant gewordene Stelle eines Archidiakons in Oschatz. 1679 wechselte er auf das Amt eines Oberpfarrers und Superintendenten in Gommern. Da manche sächsische Kirchenordnungen höhere akademische Grade erfordern, zog er wieder nach Wittenberg und erwarb sich an der dortigen Hochschule im Dezember 1679 das Lizentiat der Theologie. 1687 wechselte er den Amtsbereich und wurde Oberpfarrer und Superintendent in Belzig. Trotz seines hohen Alters blieb Wächtler geistig sehr aktiv. Dies belegt unter anderem die Tatsache, dass er vier Jahre vor seinem Tod an der Wittenberger Hochschule am 6. Oktober 1698 noch zum Doktor der Theologie promovierte. Nach seinem Tod errichtete man ihm in der Belziger Marienkirche ein Epitaph, dessen Text der damalige Propst in Kemberg Johann Heinrich Feustking verfasst hatte.
+
+Familie[Bearbeiten | Quelltext bearbeiten]
+Wächtler heiratete am 17. September 1667 in Grimma Rosina Magdalena Schlegel von Gottleben (* 13. April 1650 in Leutschau/Ungarn; † 9. Oktober 1701 in Belzig), die Tochter des Superintendenten in Grimma Christoph Schlegel. Aus der Ehe stammten 10 Kinder, von welchen Christoph Siegfried Wächtler, Anna Susanna Wächtler,
+Johann Andreas Wächtler und Johann Friedrich Wächtler jung verstarben. Von den anderen Kindern kennt man:
+
+So. Christoph Jacob Wächtler (* 3. November 1668 in Oschatz; † 20. September 1721 in Görzke) 18. Mai 1683–29. September 1684 kurf. Ls. St. Augustin Grimma; 3. April 1685 kurf. Ls. Pforta, 23. Februar 1688 Uni. Wittenberg, 16. Oktober 1690 Mag. phil. ebd., 1694 Pfr. Görtzke, verh. 11. Mai 1696 in Görzke mit Elisabeth Lenz (* 18. Mai 1674 in Tucheim; † 7. November 1757 in Görtzke), Tochter des Pfarrers in Tucheim Salomon Jacob Lentz (* um 1646 in Gladau; † 1714 in Tucheim) und dessen Frau Margarethe Wilke (* Burg; † 2. Oktober 1681 in Tucheim)
+To. Rosina Magdalena Wächtler († 24. Dezember 1778 in Weißenfels) verh. 20. September 1700 in Belzig mit dem Generalsuperintendenten von Weißenfels Dr. theol. Michael Heinrich Reinhard, (* 18. Oktober 1676 in Hildburghausen; † 1. Januar 1732 in Weißenfels)
+So. Johann Christian Wächtler (* 22. Oktober 1673 in Oschatz; † 19. Juli 1728 in Zerbst) 25. November 1686 kurf. Ls. Pforta; 13. Januar 1692 Uni. Wittenberg, September 1701 Lic. jur. Uni. Erfurt, 19. Oktober 1702 Dr. jur. Uni. Wittenberg, Advokat und Rechtskonsulent in Belzig, Rechnungsrat und Kammerkonsulent Zerbst, verh. 29. November 1703 in Wittenberg mit Christine Dorothea Keßler (* 22. April 1686 in Wittenberg; † 1. März 1705 in Belzig), Tochter des Rentamtsverwalters und Steuereinnehmers Paul Keßler (* Roßwein; † 26. Januar 1706 in Wittenberg) und der Regina Maria Kornmann (* 5. Juli 1653 in Wittenberg; † 10. April 1688 ebd.)
+So. Johann Georg Wächtler (* 1679 in Gommern; † 1728 in Plauen), 20. Oktober 1692 – 2. August 1697 kurf. Ls. Grimma, 26. August 1697 Uni. Wittenberg, 27. April 1699 Mag. phil. ebd., 1704 Pfarrsubst. Plauen, 1706 1. Landdiakon Plauen
+To. Rosine Elisabeth Wächtler verh. 22. Mai 1702 in Belzig mit Superintendenten von Belzig Dr. theol. Christian Ernst Mussigk, verh. II. 12. Juli 1729 Belzig mit Johann Christoph Eilers (~ 10. Oktober 1701 in Wansleben) 8. Mai 1723 Uni. Halle, 1729 Lic. jur. ebd., 16. Juni 1729 Dr. jur ebd.,
+So. Christfried (Christoph) Wächtler (* 21. April 1689 in Belzig), 19. November 1702 kurf. Ls. St. Augustin Grimma, 24. Oktober 1707 Uni. Wittenberg, 1717 Uni. Erfurt, 1719 Dr. med. ebenda, Arzt in Itzehoe, verh. 11. Juli 1719 mit Johanna Barbara Steinmann (1680–1763), Tochter des königl. dän. Gesandten und Ministerresidenten in Lübeck Johann Steinmann (alias Reimarus), der Witwe des Dr. med. in Itzehoe Justus Daniel Stemann (* 25. September 1669 in Helsingör; † 1717).
+Werke (Auswahl)[Bearbeiten | Quelltext bearbeiten]
+De Syllogismi terminis, Euporia, Apodixi, Sagacitate, Dicto de omni & nullo, figurarum ac modorum numero & ... Präs. M. Ernesto Baio, Fac. Phil. Adj. Wittenberg 1659
+Sciagraphia Logicae. Präs. Christian Trentsch Log. & Metaph. Prof. Wittenberg 1661
+De Essenti, & Essentiali. Resp. Christ. Schalizio Pombsensi. Misn. 1661
+Diss. polit. in Q. Curtii R. Charidemum, Darii, Persarum Regis, Consiliarium. Resp. Johannes Christoph Laurentius aus Dohna. Wittenberg 1662 (Online)
+De Natura. Resp. Joh. Gebhardo, Sommerh. Franco. 1663
+De Templis. Resp. Christian Pausa, Heyens. 1663
+De Vita Romuli. Resp. Jo. Ad. a Schoenfeld, Nob. Misn. 1663
+De Eodem ac Diverso. Resp. Joh. Cramero, Magdeb. 1664
+De Modis Distinctionum. Resp. Joh. Cramero, Magdeb. 1664
+De Causa Instrumentali. Resp. Jo. Georg Schreiber. 1664
+De Civitate, Subjecto Reipublicae, Resp. Jo. Feurelio, Weissenbergensi. 1664
+De Juramento Principis. R. Wilh. Engelcke, Stargardiens. 1664
+De jure Vitae && Necis. Resp. Jo. Höltzeln, Nivemont. 1665
+De Summa potestate circa fodinas metallicas, Resp. Jo. Höltzeln, Nivemont. 1665
+Collegium Logicum Repetitorum. Wittenberg 1665
+De Monarchia. Resp. Casp. Dehne. 1666
+De Subjecto Majestatis. Resp. Mich. Tannenberg, Dresd. 1666
+Oratio de Victoria Lipsiensi. Wittenberg 1660
+Das betrübte Nichts, oder Abdanckung bey Paul Kaselitzens, Huff-Schmieds in Oschatz, Söhnlein Hieronymo. Torgau 1673
+Das Beltziger Denckmahl. Wittenberg 1691
+Chiliassticae  vanitatis demonstratio, contra D. Phil. Jac. Spenerum. Wittenberg 1694
+Arcana Chiliasmi moderni, contra Spenerum & Petersium. Leipzig 1696
+Praefatio ad Concord, Lanckischiam. Leipzig 1695
+Drey Christliche Beicht-Kinder in Wittenberg. 1697
+Bedenken über Offenbahr. Johannes I, 4. u. s. sammt Chiliastischen Mißbrauch desselbigen Spruchs wider D. Speners Tractat: Hoffnung besserer Zeiten.
+Harmonia Sacra Paracletica, oder allerseligster Creutz-Glaubens- und Sterbens-Trost. Leipzig 1695
+Beltziger Glocken-Geläute, und Beschreibung des Oschatzer Brandes, exMSto. ex Matth. 22. Leipzig 1701
+Recht Evangelisches-Lutherisches Memento, Disce, Gaude, Mori, über die Evangelia. Leipzig 1702
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Johann Gottlob Frenkel: Diptycha Ositienta, oder Historie derer Herrn Superintendenten und Diaconen zu Oschatz in Meißen, Aus mancherley gedruckten und geschriebenen Nachrichten, auch anderen Docuenten, In zweyen Büchern dergestalt abgefaßet, das sie an statt einer Oschatzer Kirchen-Historie dienet. Johann Christoph Miethens Erben, Dresden, 1722, S. 351,
+Wächtler, Jacob. In: Johann Heinrich Zedler: Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste. Band 52, Leipzig 1747, Spalte 423–428.
+Christian Gottlieb Jöcher: Allgemeines Gelehrten-Lexicon. Leipzig, 1751, Bd. 4, Sp. 1764 (Digitalisat)
+Veronika Albrecht-Birkner: Pfarrerbuch der Kirchenprovinz Sachsen. Evangelische Verlagsanstalt, Leipzig, 2009, ISBN 978-3-374-02141-3, Bd. 9, S. 178
+Normdaten (Person): GND: 100682952 (OGND, AKS)    | VIAF: 52042100   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Wächtler, Jacob
+
+
+ALTERNATIVNAMEN
+
+Wächtler, Jakob
+
+
+KURZBESCHREIBUNG
+
+deutscher lutherischer Theologe und Superintendent der Städte Gommern und Belzig
+
+
+GEBURTSDATUM
+
+17. September 1638
+
+
+GEBURTSORT
+
+Grimma
+
+
+STERBEDATUM
+
+4. November 1702
+
+
+STERBEORT
+
+Belzig
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Jacob_Wächtler&oldid=184773210“
+Kategorien: Lutherischer Theologe (17. Jahrhundert)Lutherischer Geistlicher (17. Jahrhundert)Hochschullehrer (Leucorea)DeutscherGeboren 1638Gestorben 1702Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+
+Links hinzufügen 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 16. Januar 2019 um 06:10 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.072","walltime":"0.110","ppvisitednodes":{"value":430,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3627,"limit":2097152},"templateargumentsize":{"value":580,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   85.636      1 -total"," 81.44%   69.742      1 Vorlage:Normdaten"," 12.59%   10.785      1 Vorlage:Zedler_Online","  6.19%    5.304      2 Vorlage:Wikidata-Registrierung","  5.77%    4.940      1 Vorlage:Personendaten","  5.02%    4.302      2 Vorlage:IstZahl"]},"scribunto":{"limitreport-timeusage":{"value":"0.014","limit":"10.000"},"limitreport-memusage":{"value":829126,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190827132601","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Jacob W\u00e4chtler","url":"https:\/\/de.wikipedia.org\/wiki\/Jacob_W%C3%A4chtler","sameAs":"http:\/\/www.wikidata.org\/entity\/Q55673465","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q55673465","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-12-04T10:35:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1c\/Jacob_Waechtler.jpg","headline":"Dt. ev. Theologe; Student und Dozent in Wittenberg; 1666 Archidiakon in Oschatz; 1679 Superintendent in Gommern, 1687 in Belzig"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":244,"wgHostname":"mw1329"});});
+
+

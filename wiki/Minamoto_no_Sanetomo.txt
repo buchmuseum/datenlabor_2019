@@ -1,0 +1,241 @@
+
+
+
+
+Minamoto no Sanetomo – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Minamoto_no_Sanetomo","wgTitle":"Minamoto no Sanetomo","wgCurRevisionId":161318011,"wgRevisionId":161318011,"wgArticleId":6665656,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Shogun","Autor","Lyrik","Literatur (Japanisch)","Literatur (13. Jahrhundert)","Minamoto","Japaner","Geboren 1192","Gestorben 1219","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.",
+"Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Minamoto_no_Sanetomo","wgRelevantArticleId":6665656,"wgRequestId":"XWV7pgpAIC8AALJIkLEAAAAG","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":161318011,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q174249","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap",
+"ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minamoto no Sanetomo
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+ Minamoto no Sanetomo, in einer Darstellung von Goshin
+Minamoto no Sanetomo (jap. 源 実朝; * 17. September 1192; † 13. Februar 1219) war der dritte Shōgun des Kamakura-Shōgunats, Udaijin (von 1218 bis 1219) und ein Waka-Dichter.
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Der Sohn des Begründers des Kamukara-Shōgunats, Minamoto no Yoritomo, und Hōjō Masakos wurde im Alter von elf Jahren Shōgun als Nachfolger seines ermordeten Bruders Minamoto no Yoriie. Die tatsächliche Macht im Reich lag jedoch zu dieser Zeit in den Händen seines Großvaters Hōjō Tokimasa.
+Minamoto wurde von seinem Neffen Kugyō (Minamoto no Yoshinari), einem Sohn seines Bruders Minamoto no Yoriie, ermordet.
+
+Poesie[Bearbeiten | Quelltext bearbeiten]
+Minamoto no Sanetomo beschäftigte sich mit Poesie und wurde Schüler des Dichters Fujiwara no Teika. Seine Gedichte (etwa 700) wurden von einem unbekannten Kompilator in der Sammlung Kinkai Wakashū (金槐和歌集) zusammengestellt. Eins fand auch Aufnahme in die Sammlung Ogura Hyakunin Isshu.
+
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Commons: Minamoto no Sanetomo – Sammlung von Bildern, Videos und Audiodateien
+Dorothy Perkins: The samurai of Japan: a chronology from their origin in the Heian era (794-1185) to the modern era, DIANE Publishing, 1998, ISBN 978-0-78814-525-4, S. 29
+Shūichi Katō, Don Sanderson (Übers.): A history of Japanese literature: from the Man’yōshū to modern times, 2. Auflage, Routledge, 1997, ISBN 978-1-87341-048-6, S. 95–97
+.mw-parser-output div.NavFrame{border:1px solid #A2A9B1;clear:both;font-size:95%;margin-top:1.5em;min-height:0;padding:2px;text-align:center}.mw-parser-output div.NavPic{float:left;padding:2px}.mw-parser-output div.NavHead{background-color:#EAECF0;font-weight:bold}.mw-parser-output div.NavFrame:after{clear:both;content:"";display:block}.mw-parser-output div.NavFrame+div.NavFrame,.mw-parser-output div.NavFrame+link+div.NavFrame{margin-top:-1px}.mw-parser-output .NavToggle{float:right;font-size:x-small}
+Die Kamakura-Shōgune
+
+Minamoto no Yoritomo |
+Minamoto no Yoriie |
+Minamoto no Sanetomo |
+Kujō Yoritsune |
+Kujō Yoritsugu |
+Prinz Munetaka |
+Prinz Koreyasu |
+Prinz Hisaaki |
+Prinz Morikuni
+
+
+
+Normdaten (Person): GND: 137022980 (OGND, AKS)  | LCCN: n81055231 | NDL: 00270829 | VIAF: 75171941   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Minamoto no Sanetomo
+
+
+ALTERNATIVNAMEN
+
+源実朝 (japanisch)
+
+
+KURZBESCHREIBUNG
+
+japanischer Shōgun und Dichter
+
+
+GEBURTSDATUM
+
+17. September 1192
+
+
+STERBEDATUM
+
+13. Februar 1219
+
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Minamoto_no_Sanetomo&oldid=161318011“
+Kategorien: ShogunAutorLyrikLiteratur (Japanisch)Literatur (13. Jahrhundert)MinamotoJapanerGeboren 1192Gestorben 1219Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+In anderen Projekten
+
+
+Commons 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+БеларускаяCatalàEnglishEspañolEuskaraفارسیFrançaisItaliano日本語한국어LatinaमराठीNederlandsPolskiPortuguêsРусскийSvenskaไทยTürkçeУкраїнськаTiếng Việt中文文言Bân-lâm-gú 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 5. Januar 2017 um 16:46 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.219","ppvisitednodes":{"value":401,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5426,"limit":2097152},"templateargumentsize":{"value":1009,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":611,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  186.572      1 -total"," 33.32%   62.167      3 Vorlage:Wikidata-Registrierung"," 32.73%   61.073      1 Vorlage:Commonscat"," 29.29%   54.638      2 Vorlage:Lang"," 21.82%   40.701      1 Vorlage:Navigationsleiste_Kamakura_Shogune"," 19.27%   35.953      1 Vorlage:Navigationsleiste"," 14.32%   26.711      1 Vorlage:NavFrame"," 11.06%   20.632      1 Vorlage:Normdaten","  4.84%    9.034      1 Vorlage:Personendaten","  2.72%    5.075      1 Vorlage:NavFrame/Ende"]},"scribunto":{"limitreport-timeusage":{"value":"0.045","limit":"10.000"},"limitreport-memusage":{"value":1535310,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20190827185118","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Minamoto no Sanetomo","url":"https:\/\/de.wikipedia.org\/wiki\/Minamoto_no_Sanetomo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q174249","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q174249","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-12-31T21:21:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1e\/Minamoto_no_Sanetomo.jpg","headline":"japanischer Sh\u014dgun und Dichter"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":367,"wgHostname":"mw1326"});});
+
+

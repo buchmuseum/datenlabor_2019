@@ -1,0 +1,274 @@
+
+
+
+
+Karl III. (Frankreich) – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Karl_III._(Frankreich)","wgTitle":"Karl III. (Frankreich)","wgCurRevisionId":186488342,"wgRevisionId":186488342,"wgArticleId":142516,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["König (Frankreich)","Karolinger","Westfrankenreich","Herrscher des Mittelalters","Herrscher (9. Jahrhundert)","Herrscher (10. Jahrhundert)","Geboren 879","Gestorben 929","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.",
+"Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Karl_III._(Frankreich)","wgRelevantArticleId":142516,"wgRequestId":"XWT5zwpAMFYAAAhB94gAAACG","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":186488342,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q187519","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":
+!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest",
+"ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karl III. (Frankreich)
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+ Karl III.
+Karl III. der Einfältige (im Sinne von: der Geradlinige; lateinisch Carolus Simplex, französisch Charles le Simple; * 17. September 879; † 7. Oktober 929 in Péronne) war König der Westfranken bzw. des Westfrankenreichs von 893/98 bis 923. Er stammte aus dem Geschlecht der Karolinger.
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Ehen und Nachkommen
+3 Quellen
+4 Literatur
+5 Weblinks
+6 Anmerkungen
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Karl wurde erst nach dem Tod seines am 10. April 879 gestorbenen Vaters, König Ludwigs II. des Stammlers, geboren. Da er ein Kind aus der zweiten Ehe seines Vaters war, deren Gültigkeit kirchenrechtlich bestritten wurde, wurde er zunächst von der Thronfolge ausgeschlossen.
+Nach dem Tod Kaiser Karls III. des Dicken im Januar 888 trennten sich die fränkischen Teilreiche endgültig, die Karl der Dicke als letzter unter seiner Herrschaft vereinigt hatte. Die westfränkischen Adligen übergingen den Thronanspruch Karls des Einfältigen, der erst neun Jahre alt war, und wählten den Robertiner Odo, den Grafen von Paris, zum König. Damit wurde erstmals ein Nichtkarolinger westfränkischer bzw. französischer König. Allerdings traten einige Große, insbesondere Erzbischof Fulko von Reims, weiterhin für das Thronrecht der Karolinger ein, obwohl sie sich zunächst Odo beugen mussten.
+Nachdem Odo sich durch eine starke Bevorzugung seines jüngeren Bruders, des Markgrafen Robert, und andere umstrittene Entscheidungen missliebig gemacht hatte, wagten es die oppositionellen Vornehmen, unter denen Fulko eine maßgebliche Rolle spielte, den inzwischen dreizehnjährigen Karl den Einfältigen am 28. Januar 893 (dem bewusst gewählten Todestag Karls des Großen) in Reims zum Gegenkönig zu erheben. Die Rebellion wurde zunächst von dem ostfränkischen König Arnulf von Kärnten unterstützt, der auch ein Karolinger war, doch gelang es Odo, Arnulf auf seine Seite zu ziehen. In dem folgenden Bürgerkrieg war Odo überlegen. Schließlich wurde 896/897 Frieden geschlossen; Karl unterwarf sich Odo und anerkannte ihn als König, dafür wurde er von Odo, der keinen Sohn hatte, als Nachfolger akzeptiert.
+Nach dem Tod Odos 898 konnte Karl allgemein Anerkennung als Nachfolger finden, da Odos mächtiger Bruder Markgraf Robert die Nachfolgeregelung akzeptierte. Karl musste aber Robert und anderen mächtigen Adligen weitreichende Zugeständnisse machen. Er bestätigte Robert dessen zahlreiche Grafschaften, Abteien und Rechte und sicherte ihm das Recht zu, sie zu vererben. Robert konnte die Grafschaften von seinen eigenen Vasallen verwalten lassen, die nur ihm unterstanden und keine Beziehung mehr zum König hatten. Einen solchen Status billigte Karl auch anderen Großen zu. Dies bedeutete eine erhebliche Schwächung des Königtums.
+Eine Entscheidung von größter Tragweite war Karls Friedensschluss mit dem normannischen Fürsten Rollo im Jahr 911. Rollo wurde mit der Grafschaft Rouen belehnt. Damit wurden seine Normannen in den westfränkischen Staat integriert; die Herrschaft innerhalb seines Machtbereichs wurde aber – ebenso wie bei den fränkischen Großen – ihm allein überlassen, der Frankenkönig konnte dort nicht mehr direkt tätig werden. Um ein „Herzogtum Normandie“ handelte es sich dabei noch nicht. Eine ähnliche Übereinkunft schloss in Karls Namen 921 Markgraf Robert mit dem Loire-Normannen Rognvald, dem die Grafschaft Nantes überlassen wurde.
+Nach dem Tod des letzten ostfränkischen Karolingers, Ludwigs IV. des Kindes, im Jahr 911 lud der lotharingische Adel Karl, den nunmehr einzigen überlebenden Karolinger, zur Machtübernahme ein. Karl, der schon 898 im alten Stammland seiner Familie Lotharingien militärisch eingegriffen und Aachen besetzt hatte, drang nun erneut dort ein und eroberte das Gebiet. Gestützt auf den lotharingischen Adel konsolidierte er dort seine Herrschaft und verständigte sich darüber mit dem Ostfrankenkönig Heinrich I., mit dem er 921 den Vertrag von Bonn zur gegenseitigen Anerkennung der Besitzstände schloss.
+Karl hatte damals bereits begonnen, sich nach der Aushöhlung seiner Macht im Westfrankenreich zunehmend auf lotharingische Kräfte zu stützen. Sein besonderer Günstling wurde der Lothringer Hagano. Dies erzürnte den westfränkischen Adel, da Hagano ein Landesfremder und überdies von niedriger Herkunft war. Nachdem mächtige Adlige 920 auf einem Reichstag zu Soissons von Karl vergeblich die Entlassung Haganos gefordert hatten, sagten sie sich von ihm los. Als Karl nicht nur an Hagano festhielt, sondern auch noch beschloss, ihm die Abtei Chelles zu geben, führte dies zum Konflikt mit den Robertinern und ihren Verbündeten, denn die Äbtissin Rothild von Chelles war die Schwiegermutter Hugos des Großen, des Sohnes des Markgrafen Robert. Die oppositionellen Adligen erhoben Robert am 30. Juni 922 zum Gegenkönig (Robert I.). Am 15. Juni 923 fiel Robert in der Schlacht von Soissons gegen das Heer Karls des Einfältigen, doch seine Truppen besiegten die Streitmacht des Karolingers. Daher konnten seine Anhänger sogleich Roberts Schwiegersohn Rudolf von Burgund zum neuen König erheben.
+Rudolf wurde schon am 13. Juli 923 gekrönt. Einer seiner Parteigänger, Graf Heribert II. von Vermandois, lockte Karl den Einfältigen in eine Falle. Er lud ihn zu Verhandlungen ein und nahm ihn bei dieser Gelegenheit gefangen. Karl wurde erst in Heriberts Festung Château-Thierry, dann nach Péronne gebracht und blieb in Haft. Heribert lieferte ihn nicht an Rudolf aus, sondern behielt ihn selbst in Gewahrsam, um so ein Druckmittel gegen Rudolf zu behalten. Als er 927 mit Rudolf in Streit geriet, holte er den gefangenen Karl hervor und erkannte ihn als rechtmäßigen König an, behandelte ihn aber zugleich weiterhin als Gefangenen. Am 7. Oktober 929 starb Karl im Kerker. Er wurde in der Kirche Saint-Fursy in Péronne begraben.
+
+Ehen und Nachkommen[Bearbeiten | Quelltext bearbeiten]
+Karl heiratete im April 907, vor dem 19., in erster Ehe Frederuna, vielleicht eine Tochter des Grafen Dietrich aus dem Haus der Immedinger und damit Schwester der Mathilde, die mit dem ostfränkischen König Heinrich I. verheiratet war. Frederuna starb am 10. Februar 917. Das Paar hatte sechs Kinder, die alle zwischen 908 und 916 geboren wurden:
+
+Ermentrude, heiratete möglicherweise Gottfried, Pfalzgraf von Lothringen, Graf im Jülichgau[1]
+Frederuna
+Adelheid, heiratete möglicherweise zwischen 920 und 924 Raoul I., Graf von Gouy[1]
+Gisela (Gisla), heiratete vielleicht 912 den Normannenführer Rollo[1]
+Rotrud
+Hildegard
+Um das Jahr 919 schloss er seine zweite Ehe mit Eadgifu († nach 951), Tochter des Königs Eduard I. von  Wessex, mit der er einen Sohn hatte, der auch sein Erbe wurde.
+Eadgifu war bis 951 Äbtissin von Notre-Dame de Laon, wonach sie in zweiter Ehe den Grafen Heribert der Ältere von Meaux (ebenfalls ein Karolinger) heiratete.
+
+Ludwig IV. der Überseeische (* 920/921 † 954), König 936.
+Über die ehelichen Kinder hinaus hatte Karl uneheliche Kinder, darunter:
+
+Arnulf
+Drogo
+Rorico († 20. Dezember 976), 949 Bischof von Laon, begraben in der Abtei Saint-Vincent in Laon
+Alpais (∞ Erlebold, Graf im Lommegau 915, X 921)
+Quellen[Bearbeiten | Quelltext bearbeiten]
+Philippe Lauer (Hrsg.): Recueil des actes de Charles III le Simple, roi de France (893-923). 2 Bände, Paris 1940–1949
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Auguste Eckel: Charles le Simple. Paris 1899, Nachdruck Paris 1977 (gründliche Untersuchung)
+Theodor Schieffer: Karl III.. In: Neue Deutsche Biographie (NDB). Band 11, Duncker & Humblot, Berlin 1977, ISBN 3-428-00192-3, S. 184–188 (Digitalisat).
+Bernd Schneidmüller: Karl III. („der Einfältige“). In: Joachim Ehlers, Heribert Müller, Bernd Schneidmüller (Hrsg.): Die französischen Könige des Mittelalters. Von Odo bis Karl VIII. 888–1498. München 1996, S. 23–35 und 386–387. Verbesserte Neuausgabe: (Beck’sche Reihe 1723), München 2006, S. 21–32 und S. 354–355.
+Karl Ferdinand Werner: Die Ursprünge Frankreichs bis zum Jahr 1000. dtv, München 1995, ISBN 3-423-04653-8, S. 475ff.
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Commons: Karl III. – Sammlung von Bildern, Videos und Audiodateien
+Anmerkungen[Bearbeiten | Quelltext bearbeiten]
+
+↑ a b c 
+Informationen zu Karl III. auf der Webseite der Foundation for Medieval Genealogy, Zugriff am 15. Februar 2013.
+
+
+VorgängerAmtNachfolgerOdo von ParisKönig des Westfrankenreichs 893/98–922Robert I.
+Normdaten (Person): GND: 118776746 (OGND, AKS)  | LCCN: n85356798  | VIAF: 37061323   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Karl III.
+
+
+ALTERNATIVNAMEN
+
+Karl der Einfältige
+
+
+KURZBESCHREIBUNG
+
+König von Frankreich
+
+
+GEBURTSDATUM
+
+17. September 879
+
+
+STERBEDATUM
+
+7. Oktober 929
+
+
+STERBEORT
+
+Péronne
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Karl_III._(Frankreich)&oldid=186488342“
+Kategorien: König (Frankreich)KarolingerWestfrankenreichHerrscher des MittelaltersHerrscher (9. Jahrhundert)Herrscher (10. Jahrhundert)Geboren 879Gestorben 929Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+In anderen Projekten
+
+
+Commons 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+العربيةتۆرکجهБеларускаяБългарскиBrezhonegBosanskiCatalàČeštinaCymraegDanskΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGalegoעבריתHrvatskiMagyarՀայերենBahasa IndonesiaIdoItaliano日本語ქართული한국어LatinaLietuviųNederlandsNorsk nynorskNorskNouormandPolskiPortuguêsRomânăРусскийSicilianuScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaСрпски / srpskiSvenskaไทยУкраїнськаTiếng ViệtWest-VlamsYorùbá中文Bân-lâm-gú 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 11. März 2019 um 20:57 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.228","ppvisitednodes":{"value":758,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6621,"limit":2097152},"templateargumentsize":{"value":904,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":847,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  184.750      1 -total"," 46.74%   86.344      3 Vorlage:Wikidata-Registrierung"," 46.37%   85.661      1 Vorlage:Commonscat"," 27.08%   50.027      1 Vorlage:Personenleiste_Könige_von_Frankreich"," 14.98%   27.684      1 Vorlage:Personenleiste"," 10.91%   20.162      1 Vorlage:Normdaten"," 10.06%   18.581      1 Vorlage:NDB","  3.64%    6.730      1 Vorlage:Personendaten","  2.84%    5.250      1 Vorlage:NDB/Seite","  2.32%    4.292      1 Vorlage:NDB/Jahr"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":1490303,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20190827081603","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Karl III. (Frankreich)","url":"https:\/\/de.wikipedia.org\/wiki\/Karl_III._(Frankreich)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q187519","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q187519","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-11T12:23:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0d\/Charles_the_Simple_02.jpg","headline":"K\u00f6nig von Frankreich"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1251"});});
+
+

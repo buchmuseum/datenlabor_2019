@@ -1,0 +1,388 @@
+
+
+
+
+Maria von Ungarn – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Maria_von_Ungarn","wgTitle":"Maria von Ungarn","wgCurRevisionId":189962144,"wgRevisionId":189962144,"wgArticleId":665651,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Königin (Ungarn)","Königin (Böhmen)","Person (Brüssel)","Spanische Habsburger","Geboren 1505","Gestorben 1558","Frau"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.",
+"Dez."],"wgRelevantPageName":"Maria_von_Ungarn","wgRelevantArticleId":665651,"wgRequestId":"XWUKWApAAEEAAF36ky0AAACO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":189962144,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q157077","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus",
+"ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maria von Ungarn
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+
+
+
+
+Der Titel dieses Artikels ist mehrdeutig. Weitere Bedeutungen sind unter Maria von Ungarn (Begriffsklärung) aufgeführt.
+
+ Maria als Königin von Ungarn; Porträtgemälde von Hans Maler zu Schwaz
+Maria von Ungarn (* 17. September 1505 in Brüssel; † 17. Oktober 1558 in Cigales) war durch Geburt Prinzessin von Kastilien, Österreich sowie Burgund und wurde durch Heirat Königin von Böhmen und Ungarn. Nach dem Tod ihres Gatten wurde sie im Januar 1531 Statthalterin der Spanischen Niederlande, ihrer Heimat.
+Dynastisch korrekt, aber nicht eindeutig wird sie auch Maria von Habsburg genannt, auf Grund formaler Titel auch Maria von Kastilien oder missverständlich als Maria von Österreich bezeichnet.
+
+Inhaltsverzeichnis
+
+1 Leben
+
+1.1 Herkunft und Jugend
+1.2 Königin von Ungarn
+1.3 Statthalterin der Niederlande
+
+
+2 Vorfahren
+3 Literatur
+4 Weblinks
+5 Einzelnachweise
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Herkunft und Jugend[Bearbeiten | Quelltext bearbeiten]
+ Die Kinder Philipps des Schönen und Johannas von Kastilien
+ Václav Brožík: Tu felix Austria nube, 1896, Belvedere, Wien - Doppelhochzeit von Kaiser Maximilian I. (kniend) mit Anna von Ungarn (mit Brautschleier) sowie Maria von Habsburg mit Ludwig II. von Ungarn
+Sie wurde als fünftes Kind Philipps des Schönen und der Johanna der Wahnsinnigen geboren. Gemeinsam mit ihren Geschwistern Karl, dem späteren Kaiser Karl V. (als Karl I. König von Spanien), Eleonore und Isabella (spätere Gemahlin Christians II. von Dänemark) wurde sie nach dem Tode ihres Vaters Philipp in Mechelen von ihrer Tante Margarethe von Österreich erzogen, während ihr um zwei Jahre älterer Bruder, der spätere Kaiser Ferdinand I., in Spanien erzogen wurde.
+Ihr Großvater, der römisch-deutsche König und spätere Kaiser Maximilian I. aus dem Hause Habsburg, trat mit König Vladislav II. von Böhmen und Ungarn wegen Heiratsplänen in Verbindung. Am 20. März 1506 wurde beschlossen, dass Marias Bruder, der spätere Kaiser Ferdinand I., Vladislavs Tochter Anna heiraten werde, Maria aber mangels eines bereits geborenen Sohnes mit dem ungeborenen Kind der schwangeren Mutter Annas, für den Fall dass ein Sohn geboren würde, verlobt wurde. Tatsächlich wurde am 1. Juli 1506 Marias zukünftiger Ehemann Ludwig Jagiello geboren.
+Am 22. Juli 1515 fand im Stephansdom die denkwürdige Eheschließung (bzw. Verlobung) statt, bekannt unter dem Begriff Wiener Doppelhochzeit. Maria und Anna blieben zunächst in Wien.
+
+Königin von Ungarn[Bearbeiten | Quelltext bearbeiten]
+ Maria von Ungarn (Ölgemälde von Jan Cornelisz Vermeyen)
+1516 starb Marias Schwiegervater Vladislav II.; ihr damals zehnjähriger Ehemann Ludwig wurde als Ludwig II. König von Böhmen und Ungarn. 1517 zogen die jungen Prinzessinnen Maria und Anna nach Innsbruck, wo sie gemeinsam weitere Bildung erhielten. Maria entdeckte dort ihre Leidenschaft für die Jagd und die Musik. 1521 übersiedelte die sechzehnjährige Maria nach Preßburg zu ihrem erst fünfzehnjährigen Ehemann, für den sie schon bald heftige Zuneigung empfand.
+Königin Maria erhielt bereits als Kind eine hervorragende philosophische und religiöse Ausbildung. Unter dem Einfluss des Markgrafen Georg von Brandenburg der ab 1506 am Hofe von König Ladislaus II. Jagiello [ung. Ulászló] in Ofen Erzieher und späterer Mitvormund seines Sohnes Ludwig II. war, kam Maria vermutlich mit dem Luthertum sowie Vertretern der Reformation in Berührung, die sie bereits damals protegierte.[1]
+Maria wird als eine nicht eben attraktive Persönlichkeit beschrieben, sie hatte von den Habsburgern deren Kinn und Unterlippe geerbt und trat wie „ein Mannweib“ auf. Ihr wurden indessen eine hervorragende Redegabe, politische Begabung, Klugheit und Fleiß nachgesagt. Am 11. Dezember 1521 wurde sie von Ludwig zur Königin von Ungarn und am 1. Juni 1522 zur Königin von Böhmen gekrönt.
+Unter den gegebenen Verhältnissen war ein politisches Ausgreifen des noch sehr jungen Königs überhaupt nicht denkbar. Die Regierungsgeschäfte im Königreich Ungarn wurden von einem Regentschaftsrat unter der Leitung des Reichsverwesers Johann Zápolya geführt. Politisch beherrschten die ungarischen Magnaten das Reich. Diese hatten sich in eine nationalistische und eine pro-habsburgische Partei gespalten. Erst im Laufe der Zeit konnte Ludwig sich einigermaßen profilieren. Er verließ sich in seinen Entscheidungen größtenteils auf Maria, die ihn zwar unterstützte, ihn aber gewiss auch mit politischen Vorstellungen, nicht aber mit den politischen Plänen der Habsburger vertraut machte. 1526 spitzte sich die Lage zu. Innenpolitisch drohte ein Umsturz. Obwohl Ludwig seitens seiner beiden Schwager Karl V. und Ferdinand I. Hilfe gegen die Türken zugesichert worden war, hatten diese den zwanzigjährigen König im Stich gelassen. Als es am 29. August 1526 bei Mohács im Süden Ungarns zur Schlacht gegen die eindringenden Türken unter Süleyman I. dem Prächtigen kam, ging diese katastrophal verloren. Fast die gesamte politische und kirchliche Führung Ungarns kam während der Schlacht ums Leben. Ludwig konnte sich zwar zunächst vom Schlachtfeld retten, starb aber während seiner Flucht.
+Aus den von den Türken besetzten Gebieten setzte ein Flüchtlingsstrom in Richtung des hervorragend befestigten Preßburgs ein. Bereits am 3. September 1526 kommt hier die Königin-Witwe gemeinsam mit dem Palatinus Ungarns, Stephan Báthory, sowie Thomas Nádasdy an. Ihnen folgte der Fürsterzbischof von Gran und ein Teil des ungarischen Adels und Hochadels.[2]
+Dass die Reformation von Maria mit einem gewissen "positivem Interesse" verfolgt wird, wurde sogar im fernen Wittenberg von D. Martin Luther wahrgenommen. Sicherlich hatte Luther auch über die dramatische Niederlage des christlichen ungarischen Heeres bei Mohács Kenntnis, sowie den Tod des Königs und die daraus resultierende Witwenschaft Marias. Deshalb sendet ihr der Reformator ein Büchlein mit vier von ihm persönlich übersetzten Trostpsalmen, denen ein sehr persönlich gehaltenes Begleitschreiben beigefügt war.[3] Als Reaktion auf dieses Geschenk Martin Luthers entwickelte sich eine ziemlich unliebsame Korrespondenz zwischen ihrem Bruder, Ferdinand I. und ihr.[4] Maria musste sich immer wieder rechtfertigen und beteuern im katholischen Glauben zu verbleiben. Letztlich war es nur ihre Treue zur "Casa d' Austria" die sie davon abhielt nicht zum lutherischen Glauben zu konvertieren. Jedenfalls ist sie ihrem Versprechen nachgekommen, welches sie Ferdinand I. geleistet hatte, den Lehren des „alten“ Glaubens bis zu ihrem Tode die Treue zu halten. Auch sehen wir sie nie öffentlich die Reformation zu fördern oder zu unterstützen.[1]
+
+Nachdem das Land mit Ludwigs Tod führungslos geworden war, wurde Zápolya bei einer Ständeversammlung in Tokaj am 14. Oktober zum neuen Herrscher bestimmt. Nachdem diese Wahl bei einer weiteren Ständeversammlung in Székesfehérvár, der Krönungsstadt der ungarischen Könige, am 10. November bestätigt worden war, wurde Zápolya tags darauf zum König von Ungarn gekrönt. Dies bedeutete indes nicht, dass er König von Gesamt-Ungarn wurde: Während er Siebenbürgen im Namen des türkischen Sultans verwaltete, konnten die Habsburger, die ebenfalls als legitime Erben galten, sich in den westlichen Grenzgebieten und in Oberungarn, d. h. der heutigen Slowakei mit der Hauptstadt Pressburg, behaupten; Ferdinand I., Schwager von Ludwig II. und späterer Kaiser, wurde von einer anderen Ständeversammlung am 17. Dezember 1526 vom westungarischen Adel in der Franziskanerkirche zu Preßburg ebenfalls zum König von Ungarn gewählt. Die Königin-Witwe Maria wurde in derselben Zeit zur Statthalterin Ungarns ernannt. Nachdem die Türken 1541 Ofen gegenüber von Pest einnehmen konnten und somit den fruchtbarsten Teil Ungarns, die Große Tiefebene, beherrschten, war das Land praktisch dreigeteilt. Maria von Ungarn als Statthalterin der Niederlande
+Mit türkischer Hilfe konnte Zápolya sich gegen seinen habsburgischen Widersacher behaupten. Im Frieden von Großwardein (ungarisch Nagyvárad, rumänisch Oradea) erkannte Ferdinand Zápolya als König von Ungarn an, sicherte sich aber das Recht auf die Nachfolge im Falle von dessen Tod. Dennoch brach Zápolya die Vereinbarung, indem er seinem Sohn Johann Sigismund das Königreich vermachte. Für seine Erben blieb am Schluss jedoch nur noch das Fürstentum Siebenbürgen, das unter der Oberhoheit des Osmanischen Reiches Bestand hatte.
+
+Statthalterin der Niederlande[Bearbeiten | Quelltext bearbeiten]
+Weitere Heiratspläne ihres Bruders Ferdinand I. mit Jakob V. von Schottland und Pfalzgraf Friedrich lehnte Maria ab und übernahm aufgrund der Bitten ihres Bruders Karl V. am 3. Januar 1531 das Amt der Statthalterin in den Niederlanden. An politischen Weitblick und Intelligenz steht Karls Schwester, die verwitwete Königin von Ungarn nicht nach. "Jedenfalls hatte Karl mit der Wahl der Schwester den besten Griff getan. Ihre überragenden Begabungen auf dem Gebiete der Politik, der Finanzen und der Kriegsführung setzte sie voll für ihn ein, vergaß dabei aber nie, für die von ihr regierten Länder einzutreten."[5]
+Sie schaffte es, die 17 damaligen niederländischen Provinzen zu einem zentral regierten unabhängigen Staatswesen zusammenzufassen, ohne die Interessen des Hauses Habsburg zu verletzen. Erfolgreich organisierte sie eine wirksame Landesverteidigung, vor allem gegen französische Truppen. Sie errichtete die Forts Mariembourg, Charlemont und Philippeville.
+1542 schlug sie ihren Schwager Franz I. in der Schlacht bei Luxemburg, weil dieser mit der Aktion einer Frau nicht rechnete. Mehrfach vermittelte sie als Karls Vertraute zwischen ihren Brüdern, unter anderem in der Thronfolge des Kaisers.
+Wirtschaftlich und kulturell erlebten die Niederlande unter ihrer Regierung eine Blütezeit. In Antwerpen wurden 50 % des Welthandels nach Europa umgeschlagen, dort befand sich auch die größte Börse Europas. Maria förderte Handwerk und Kunst, u. a. ließ sie eine Gemäldegalerie an ihren Brüsseler Palast anbauen und holte den italienischen Maler Tizian an ihren Hof.
+Als Karl 1556 abdankte, tat sie es ihm nach und zog sich mit ihm und ihrer Lieblingsschwester Eleonore nach Spanien zurück. Es ist bezeichnend für die gegenseitige Sympathie, dass sie gleichzeitig mit Karls Abdankung ihre niederländische Statthalterschaft beendete und mit ihrem Bruder nach Spanien ging.
+Am 17. Oktober 1558 starb sie kurz nach ihren Geschwistern. Sie wurde im Escorial beigesetzt.
+
+Vorfahren[Bearbeiten | Quelltext bearbeiten]
+ Erst im Altersruhestand zog Maria von Ungarn nach Kastilien, hier ihre Grabstätte im Escorial:MARIA - VNGARIAE REGINA
+
+              
+
+ Friedrich III. (HRR) (1415–1493)
+ 
+     
+
+ Maximilian I. (HRR) (1459–1519) 
+ 
+        
+
+ Eleonore Helena von Portugal (1436–1467)
+ 
+     
+
+ Philipp I. (Kastilien) (1478–1506) 
+ 
+           
+
+ Karl der Kühne (1433–1477)
+ 
+     
+
+ Maria von Burgund (1457–1482) 
+ 
+        
+
+ Isabelle de Bourbon (1437–1465)
+ 
+     
+
+ Maria von Ungarn (1505–1558) 
+ 
+              
+
+ Johann II. (Aragón) (1397–1479)
+ 
+     
+
+ Ferdinand II. (Aragón) (1452–1516) 
+ 
+        
+
+ Juana Enríquez (1425–1468)
+ 
+     
+
+ Johanna von Kastilien (1479–1555) 
+ 
+           
+
+ Johann II. (Kastilien) (1405–1454)
+ 
+     
+
+ Isabella I. (Kastilien) (1451–1504) 
+ 
+        
+
+ Isabella von Portugal (1428–1496)
+ 
+     
+
+
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Martina Fuchs, Orsolya Réthelyi (Hrsg.): Maria von Ungarn (1505–1558). Eine Renaissancefürstin. Aschendorff, Münster 2007, ISBN 978-3-402-06577-8.
+Gernot Heiß: Maria, Erzherzogin von Österreich. In: Neue Deutsche Biographie (NDB). Band 16, Duncker & Humblot, Berlin 1990, ISBN 3-428-00197-4, S. 207–209 (Digitalisat).
+Thea Leitner: Herz unterm Panzer. Maria 1505–1558. In: Habsburgs verkaufte Töchter. Piper, München und Zürich 1994, ISBN 3-492-11827-5, S. 93–135 (auch im Sammelband Schicksale im Hause Habsburg im gleichen Verlag, ISBN 3-492-23980-3).
+Wilhelm Maurenbrecher: Maria (Königin von Ungarn und Böhmen). In: Allgemeine Deutsche Biographie (ADB). Band 20, Duncker & Humblot, Leipzig 1884, S. 374–378.
+Ursula Tamussino: Maria von Ungarn. Ein Leben im Dienst der Casa de Austria. Styria, Graz 1998, ISBN 3-222-12641-0.
+Constantin von Wurzbach: Habsburg, Maria (Königin von Ungarn). In: Biographisches Lexikon des Kaiserthums Oesterreich. 7. Theil. Kaiserlich-königliche Hof- und Staatsdruckerei, Wien 1861, S. 18 (Digitalisat).
+Linda Maria Koldau: Frauen – Musik – Kultur. Ein Handbuch zum deutschen Sprachgebiet der Frühen Neuzeit. Böhlau, Köln/Weimar 2005, ISBN 3-412-24505-4, S. 50–56.
+Anton Klipp: Preßburg. Neue Ansichten zu einer alten Stadt. Karpatendeutsches Kulturwerk, Karlsruhe 2010, ISBN 978-3-927020-15-3.
+Anton Klipp: Die Habsburger und die Anfänge der Reformation in Preßburg in Karpatenjahrbuch 2017 (Jg. 68) ISBN 978-80-8175-021-2, Seiten 75 bis 86
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Commons: Maria von Ungarn – Sammlung von Bildern, Videos und Audiodateien
+Literatur von und über Maria von Ungarn im Katalog der Deutschen Nationalbibliothek
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+
+↑ a b Anton Klipp: Die Habsburger und die Anfänge der Reformation..., S. 76ff
+
+↑ Anton Klipp: Preßburg..., S. 57
+
+↑ Zitiert nach D. Martin Luthers Briefe, Band 3, Seiten 132 – 134; (Weimarer Ausgabe 1883 – 1929)
+
+↑ Veröffentlicht in Magyar Sion, 1864, Band II., S. 100 ff.; Originaltext der Schreiben in französischer Sprache. Deutsche Übersetzungen bei Anton Klipp: Die Habsburger und die Anfänge der Reformation... S. 75-86
+
+↑ Christiane Thomas, Maria. In: Die Habsburger. Ein biographisches Lexikon, hrsg. von Brigitte Hamann, Wien 1988, S. 284
+
+
+VorgängerAmtNachfolgerMargarete von ÖsterreichStatthalterin der habsburgischen Niederlande 1531–1555Emanuel Philibert von SavoyenBeatrix von AragónKönigin von Böhmen 1516–1526Anna von Böhmen und UngarnAnne de Foix-CandaleKönigin von Ungarn 1516–1526Anna von Böhmen und Ungarn
+.mw-parser-output div.NavFrame{border:1px solid #A2A9B1;clear:both;font-size:95%;margin-top:1.5em;min-height:0;padding:2px;text-align:center}.mw-parser-output div.NavPic{float:left;padding:2px}.mw-parser-output div.NavHead{background-color:#EAECF0;font-weight:bold}.mw-parser-output div.NavFrame:after{clear:both;content:"";display:block}.mw-parser-output div.NavFrame+div.NavFrame,.mw-parser-output div.NavFrame+link+div.NavFrame{margin-top:-1px}.mw-parser-output .NavToggle{float:right;font-size:x-small}
+
+Statthalter der burgundischen Niederlande (1506–1581)
+
+
+
+
+Guillaume II. de Croÿ |
+Margarete von Österreich |
+Maria von Kastilien |
+Emanuel Philibert von Savoyen |
+Margarethe von Parma |
+Fernando Álvarez de Toledo |
+Luis de Zúñiga y Requesens |
+Juan de Austria |
+Alessandro Farnese
+
+(Nachfolger: Alessandro Farnese, Statthalter der spanischen Niederlande)
+
+
+
+Normdaten (Person): GND: 119170531 (OGND, AKS)  | LCCN: n94037144  | VIAF: 77119805   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Maria von Ungarn
+
+
+ALTERNATIVNAMEN
+
+Maria von Habsburg; Maria von Kastilien
+
+
+KURZBESCHREIBUNG
+
+Erzherzogin von Österreich, Prinzessin von Kastilien, Königin von Böhmen und Ungarn
+
+
+GEBURTSDATUM
+
+17. September 1505
+
+
+GEBURTSORT
+
+Brüssel
+
+
+STERBEDATUM
+
+17. Oktober 1558
+
+
+STERBEORT
+
+Cigales
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Maria_von_Ungarn&oldid=189962144“
+Kategorien: Königin (Ungarn)Königin (Böhmen)Person (Brüssel)Spanische HabsburgerGeboren 1505Gestorben 1558Frau
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+In anderen Projekten
+
+
+Commons 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+العربيةБеларускаяБългарскиBrezhonegBosanskiCatalàČeštinaEnglishEsperantoEspañolEestiSuomiFrançaisMagyarItaliano日本語ქართული한국어LatinaLietuviųNederlandsNorskPolskiPortuguêsRomânăРусскийSlovenčinaСрпски / srpskiSvenskaไทยУкраїнськаWest-Vlams 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 29. Juni 2019 um 12:49 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.514","ppvisitednodes":{"value":1939,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38036,"limit":2097152},"templateargumentsize":{"value":3637,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2471,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  362.467      1 -total"," 33.76%  122.356      3 Vorlage:Wikidata-Registrierung"," 32.81%  118.916      1 Vorlage:Commonscat"," 13.16%   47.695      1 Vorlage:ADB","  8.81%   31.950      1 Vorlage:Personenleiste","  8.72%   31.591      1 Vorlage:Navigationsleiste_Statthalter_der_burgundischen_Niederlande_(1506–1581)","  7.39%   26.792      1 Vorlage:Navigationsleiste","  7.15%   25.925      1 Vorlage:Str_rightc","  6.68%   24.199      1 Vorlage:NDB","  6.42%   23.275      1 Vorlage:Normdaten"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":1880139,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20190728165433","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Maria von Ungarn","url":"https:\/\/de.wikipedia.org\/wiki\/Maria_von_Ungarn","sameAs":"http:\/\/www.wikidata.org\/entity\/Q157077","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q157077","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-27T11:09:26Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2f\/Marie_de_hongrie_1520.jpg","headline":"Erzherzogin von \u00d6sterreich, Prinzessin von Kastilien, K\u00f6nigin von B\u00f6hmen und Ungarn"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1270"});});
+
+

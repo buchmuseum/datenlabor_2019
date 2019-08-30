@@ -1,0 +1,254 @@
+
+
+
+
+Johann Sigismund Küffner – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Johann_Sigismund_Küffner","wgTitle":"Johann Sigismund Küffner","wgCurRevisionId":187740196,"wgRevisionId":187740196,"wgArticleId":10132327,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Politiker (Dresden)","Unternehmer (Dresden)","Stifter","Deutscher","Geboren 1641","Gestorben 1710","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.",
+"Nov.","Dez."],"wgRelevantPageName":"Johann_Sigismund_Küffner","wgRelevantArticleId":10132327,"wgRequestId":"XWZjCApAAEMAACFpwsMAAABP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":187740196,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q47494448","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus",
+"ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Johann Sigismund Küffner
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+Johann Sigismund Küffner (* 17. September 1641 in Kulmbach; † 7. Februar 1710 in Dresden)[1] war ein deutscher Kaufmann und Ratsherr.[2]
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Werke
+3 Einzelnachweise
+4 Weblinks
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Johann Sigismund Küffner wurde als Sohn Rechtsgelehrten Bartholomäus Küffner († 1658), fürstlich-markgräflich-brandenburgischer Kammerschreiber in Kulmbach und dessen Ehefrau Euphemia Sibylla geb. Wohn (* 17. November 1616 in Hof; † ca. 1650) geboren. Johann Sigismunds Großvater war fürstlich-markgräflich-brandenburgischer Kastner in Pegnitz. Dessen Bruder Johann Siegmund Küffner diente unter dem Kaiser des Heiligen Römischen Reiches Karl V. im Kampf gegen die Türken. Der Kaiser erwog, das Geschlecht der Küffner in den erblichen Adelsstand zu erheben, was letztlich aber wieder verworfen wurde.
+Johann Sigismund Küffner heiratete am 8. Mai 1676 Johanna Gertrud (* 10. September 1655 in Dresden; † nach Februar 1710 ebenda), jüngste Tochter des Pastors der Annenkirche, Magister Samuel Strauch (1621–1680).[3] Die Ehe blieb kinderlos.
+Er wurde anfangs von Privatlehrern zu Hause und in öffentlichen Schulen unterrichtet. Nach dem Schulbesuch begann er eine Lehre zum Kaufmann bei seinem Onkel Johann Wohn († Weihnachten 1666), die er 1662 beendete. Sein Onkel entsandte ihn während des Englisch-Niederländischen Krieges 1666 nach Hamburg, um von dort mit einem Schiff nach England zu fahren, bei der Rückfahrt begleitete er einen Handelskonvoi der Leinentücher transportierte. Im gleichen Jahr starb sein Onkel und er übernahm das Wohnsche Handelsunternehmen und führte es im Auftrag der Witwe seines Onkels bis zu deren Tod 1670. Nachdem diese keine eigenen Kinder hatte, verfügte sie testamentarisch, das er das Handelsunternehmen unter dem Namen "Küffner" weiter führen solle. 1698 verkaufte er das Geschäft in Leipzig an seinen Kompagnon David Andreas Schäffer († 1709), der 16 Jahre bei ihm im Unternehmen diente und großen Anteil an den Erfolgen, vor allem auf der Leipziger Messe hatte.
+1690 ersteigerte er das Erb- und Allodialgut in Altkaitz Nr. 1 und war Erb-, Lehn- und Gerichtsherr auf Walda und Kaitz.[4]
+1701 wurde Johann Sigismund Küffner als Senator in den Stadtrat von Dresden gewählt. 1702 ist er sowohl Ratsherr, Mitglied des Dresdner Stadtmagistrats und zusammen mit Johann Friedrich Landsberger (1649–1711) Ober-Ältester der Dresdner Handlungsinnung sowie Kauf- und Handelsherr.
+1705 verkaufte er den Dresdner Teil seines Unternehmens an seinen weiteren Kompagnon Johann Christian Heitmann.
+Johann Sigismund Küffner gilt als Stifter für Armenhäuser, Kirchen und Schulen, so verfügte das Ehepaar in ihrem Testament, dass die Stadt Bischofswerda 500 Taler erhalten solle, von deren Zinsen sowohl die Armen als auch die Geistlichen bedient werden sollten. Der Ort Leubnitz erhielt 600 Taler, die Zinsen sollten der Pfarrer, der Schulmeister und die Kirchenväter sowie die Armen erhalten, außerdem stiftete er dort 1702 der Leubnitzer Kirche ein Vermächtnis, das 1730/31 die Errichtung des neuen Hochaltars ermöglichte. Neustadt und Stolpen sollten jeweils 500 Taler erhalten, die Zinsen sollten den Geistlichen und den Armen zugutekommen. Dresden vermachte er 2.400 Taler, deren Zinsen über die Armen-Versorgungs-Behörde an die Armen verteilt werden sollten.[5]
+Als 1680 die Pest in Dresden wütete, suchte Johann Sigismund Küffner mit seiner Ehefrau Zuflucht in Sebnitz. Beide blieben von der Pest verschont. Aus Dankbarkeit gedachten beide im Testament 1729 der gastfreundlichen Stadt und vermachten der Sebnitzer Kirche 300 Taler, den Geistlichen 100 Taler und den Armen 300 Taler. Die der Kirche gestiftete Summe wurde der finanzielle Grundstock zur Erbauung des Diakonatsgebäudes. Die Stadt Sebnitz brachte über der Eingangstür des Diakonats einen Denkstein an.[6]
+
+Werke[Bearbeiten | Quelltext bearbeiten]
+Gotthelf Ehrenreich Becker: Das Göttliche Wohlmachen Bey sterbenden Christen, Welches Johann Sigismund Küffner, Erb- Lehn- und Gerichts-Herr auf Walda und Kaitz Nachdem Derselbe am 7. Februar. 1710 seelig entschlaffen vorgestellet. Dresden 1710.
+Die Beste Göttliche Anstalt, So Gott einer Christlichen Obrigkeit machet, Wolte an des weyland Johann Siegmund Küffners, Nach Dessen am 7. Febr. 1710 in Dreßden wohlselig-geschehenen Aufflösung gehaltenem Trauer-Gedächtniß-Tage. Dresden: Riedel, 1710.
+Getreuer Liebhaber Gottes. Dresden, 1710.
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+
+↑ Allgemein wird der 7. September als Geburtstag für Johann Sigismund Küffner in den Publikationen und auch auf seinem Bildnis angegeben. In der Leichenpredigt steht jedoch, dass er am 7. September „alten Calenders“, also nach dem Julianischen Kalender geboren wurde. Zwar hatten die katholischen Reichsstände den neuen Gregorianischen Kalender bereits 1582 angenommen, die protestantischen Reichsstände dagegen folgten erst dem neuen Kalender im Jahr 1700. Die Umrechnung von dem Julianischen auf den Gregorianischen Kalender ergibt als Geburtsdatum den 17. September 1641.
+
+↑ Johann Sigismund Küffner - Stadtwiki Dresden. Abgerufen am 24. Januar 2018. 
+
+↑ Family tree of Johann Siegmund KÜFFNER auf Walda und Kaitz. Abgerufen am 25. Januar 2018 (englisch). 
+
+↑ Lars Herrmann: Altkaitz. Abgerufen am 25. Januar 2018. 
+
+↑ Gustav Adolph ACKERMANN: Systematische Zusammenstellung der im Königreiche Sachsen bestehenden frommen und milden Stiftungen, wohlthätigen Anstalten und gemeinnützigen Vereine. Teubner, 1845 (google.de [abgerufen am 25. Januar 2018]). 
+
+↑ Der Denkstein über der Eingangstür des Diakonatsgebäudes in Sebnitz – Wikisource. Abgerufen am 25. Januar 2018. 
+
+
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Johann Sigismund Küffner im Stadtwiki Dresden
+Normdaten (Person): GND: 143598716 (OGND, AKS)    | VIAF: 168464858   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Küffner, Johann Sigismund
+
+
+ALTERNATIVNAMEN
+
+Küffner, Johann Siegmund
+
+
+KURZBESCHREIBUNG
+
+deutscher Kaufmann und Politiker
+
+
+GEBURTSDATUM
+
+17. September 1641
+
+
+GEBURTSORT
+
+Kulmbach
+
+
+STERBEDATUM
+
+7. Februar 1710
+
+
+STERBEORT
+
+Dresden
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Johann_Sigismund_Küffner&oldid=187740196“
+Kategorien: Politiker (Dresden)Unternehmer (Dresden)StifterDeutscherGeboren 1641Gestorben 1710Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+
+Links hinzufügen 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 20. April 2019 um 19:06 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.258","ppvisitednodes":{"value":1263,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12773,"limit":2097152},"templateargumentsize":{"value":3419,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6205,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  219.774      1 -total"," 66.90%  147.018      4 Vorlage:Internetquelle"," 17.22%   37.836      1 Vorlage:Normdaten"," 12.29%   27.003      4 Vorlage:Str_len"," 11.22%   24.664      1 Vorlage:Literatur","  3.03%    6.663      2 Vorlage:Wikidata-Registrierung","  2.60%    5.720      1 Vorlage:Personendaten"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":3502387,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20190815121101","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Johann Sigismund K\u00fcffner","url":"https:\/\/de.wikipedia.org\/wiki\/Johann_Sigismund_K%C3%BCffner","sameAs":"http:\/\/www.wikidata.org\/entity\/Q47494448","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q47494448","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-11-28T10:25:54Z"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1272"});});
+
+

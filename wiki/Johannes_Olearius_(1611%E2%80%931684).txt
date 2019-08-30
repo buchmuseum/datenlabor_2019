@@ -1,0 +1,282 @@
+
+
+
+
+Johannes Olearius (1611–1684) – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Johannes_Olearius_(1611–1684)","wgTitle":"Johannes Olearius (1611–1684)","wgCurRevisionId":184773129,"wgRevisionId":184773129,"wgArticleId":318368,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lutherischer Theologe (17. Jahrhundert)","Generalsuperintendent","Autor","Literatur (17. Jahrhundert)","Literatur (Deutsch)","Hochschullehrer (Leucorea)","Domprediger am Dom zu Halle","Person (Weißenfels)","Kirchenlieddichter","Deutscher","Geboren 1611","Gestorben 1684","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar",
+"März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Johannes_Olearius_(1611–1684)","wgRelevantArticleId":318368,"wgRequestId":"XWKobwpAAD4AAHaWiAwAAAAF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":184773129,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":
+"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q87418","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site",
+"mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Johannes Olearius (1611–1684)
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+ Johannes Olearius (in: Johann Christoph von Dreyhaupt, Beschreibung des Saalkreises, 1750)
+Johannes Olearius (auch Johann Olearius; * 7. Septemberjul./ 17. September 1611greg. in Halle (Saale); † 14. Apriljul./ 24. April 1684greg. in Weißenfels) war ein deutscher evangelischer Theologe und Kirchenliederdichter.
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Werk
+3 Familie
+4 Literatur
+5 Weblinks
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Johannes Olearius wurde als dritter Sohn des Professors der Theologie Johann Olearius (1546–1623), der seit 1581 in Halle als Superintendent und Oberpfarrer wirkte, und seiner Frau Sibylla geb. Nicander (1584–1622) geboren. Seine Mutter verstarb 1622, sein Vater ein Jahr später. Der Knabe fand zuerst Aufnahme im Hause des Rechtsgelehrten Andreas Sartorius in Halle und nach dessen Tod bei dem Meißener und Merseburger Hofprediger und Superintendent Simon Gedik (1551–1631) in Merseburg.
+Nach dem Besuch des Gymnasiums in Halle und Merseburg nahm er am 19. Oktober 1629 sein Studium der Theologie an der Universität Wittenberg auf. Am 20. März 1632 wurde ihm hier der Magister-Grad der Philosophie verliehen, er habilitierte sich als Magister Legens am 15. Februar 1634 mit einem Thema über Geographie und war am 18. Oktober 1635 Adjunkt der philosophischen Fakultät. Nachdem sich Olearius auch mit Theologie beschäftigt hatte, fand er Aufnahme in die theologische Fakultät der Wittenberger Hochschule und erwarb sich hier am 22. Februar 1638 das Lizenziat der Theologie. Im selben Jahr wurde Olearius als Superintendent nach Querfurt berufen.
+Ab 1643 war Johannes Olearius Hofprediger des Herzogs August von Sachsen-Weißenfels in Halle. Seine Promotion zum Doktor der Theologie erfolgte am 21. November 1643 in Wittenberg. Er stieg zum Oberhofprediger auf, wurde 1657 Kirchenrat und 1664 Generalsuperintendent. Nach dem Tode des Herzogs wurde er 1680 nach Weißenfels versetzt, wo er im Alter von 72 Jahren verstarb.
+
+Werk[Bearbeiten | Quelltext bearbeiten]
+Johann Olearius wurde v. a. durch seine zahlreichen Kirchenlieddichtungen bekannt. 1671 erschien die erste Auflage seines Buches Geistliche Singe-Kunst, das 1218 Lieder enthält. Davon stammen 296 (nach Koch) bzw. 240 (nach Lueken) von Johann Olearius. Eine erweiterte Auflage mit 1340 Stücken folgte ein Jahr später. Zu den Dichtungen Olearius’ zählen u. a.:
+
+Ach, wie groß ist deine Gnade
+Fürwahr der Herr trug selbst
+Gelobet sei der Herr, vertont von Johann Sebastian Bach in der Kantate für Trinitatis Gelobet sei der Herr, mein Gott, BWV 129
+Gott Lob, der Sonntag kommt herbei
+Herr Jesu Christ, dein teures Blut
+Herr, öffne mir die Herzenstür
+Nun kommt das neue Kirchenjahr
+Tröstet, tröstet meine Lieben – 3. Strophe von Bach in BWV 30 Freue dich, erlöste Schar vertont
+Wunderbarer Gnadenthron
+Zu der literarischen Arbeit Olearius’ gehören Erbauungsschriften, aber auch wissenschaftliche Texte. Theologisch stand er Philipp Jacob Spener nahe.
+
+Familie[Bearbeiten | Quelltext bearbeiten]
+Olearius heiratete in der Halleschen Kirche Unser lieben Frauen am 5. Oktober 1637 Catharina Elisabeth, der Tochter des Theologen Andreas Merck und dessen Frau Elisabeth (geb. Kirchhoff). Aus dieser Ehe gingen 15 Kinder hervor, neun Söhne und sechs Töchter:
+
+Sohn Namenlos, Zwilling I († gleich nach Geburt)
+Sohn Namenlos, Zwilling II († gleich nach Geburt)
+Johannes Andreas Olearius (* 24. September 1639) Theologe
+Johann Gottfried Olearius (* 6. Mai 1641 in Halle) Theologe
+Anne Elisabeth Olearius (* 29. Juni 1643 in Halle; † 1721) verh. 1659 mit dem magdeburgschen Hofrat in Halle Johann Joachim Kemnitz (* 7. August 1631 in Halle; † 17. April 1691)
+Johann August Olearius (* 12. Dezember 1644 in Halle) Theologe
+Johann Christian Olearius (* 22. Juni 1646) Theologe
+Anna Maria Olearius († 18. Oktober 1696 in Alsleben)
+1. Ehe 1664 mit dem sächsischen Kammerrat Johann Baptista von Ritter auf Bilzingsleben († 13. Februar 1674 in Halle a.S.)
+2. Ehe 1679 mit dem kurfürstlichen Kammerjunker, Dompropst in Meißen Paul von Heinsberg auf Loßa († 24. Juni 1680)
+3. Ehe 1693 mit Johann Adolph von Krosigk († 22. September 1714 in Wettin) auf Mukrena
+Johann Christoph Olearius († 1666) als Student
+Anna Sybilla Olearius (* 1651, † 1653)
+Anna Sophia Olearius verh. 1672 mit dem Hallenser Ratsherrn Johann Gottfried Stützing
+Anna Dorothea Olearius verh. 1672 mit dem Superintendenten in Weißenfels Johann Schieferdecker
+Anna Magaretha Olearius verh. mit dem fürstlich sächsischen Hof- und Justizrat in Weißenfels Lic. Tobias Heydenreich
+Johann Friedrich Olearius * † 1659
+Johann Friedrich Olearius (* 26. Februar 1661 in Halle) Theologe
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Johann Christoph von Dreyhaupt: Beschreibung des Saalkreises. Emanuel Schneider, Halle 1750, S. 683.
+l. u.: Olearius, Johannes (Oberhofprediger). In: Allgemeine Deutsche Biographie (ADB). Band 24, Duncker & Humblot, Leipzig 1887, S. 279.
+Hans Peter Hasse: Olearius, Johannes. In: Religion in Geschichte und Gegenwart (RGG). 4. Auflage. Band 6, Mohr-Siebeck, Tübingen 2003, Sp. 548.
+Christian Gottlieb Jöcher: Allgemeines Gelehrten-Lexicon. Darinne die Gelehrten aller Stände sowohl männ- als auch weiblichen Geschlechts, welche vom Anfange der Welt bis auf die ietzige Zeit gelebt, und sich der gelehrten Welt bekannt gemacht, Nach ihrer Geburt, Leben, merckwürdigen Geschichten, Absterben und Schrifften aus den glaubwürdigensten Scribenten in alphabetischer Ordnung beschrieben werden. Johann Friedrich Gleditsch, Leipzig 1751, 3. Teil, Sp. 1052. (GoogleBooks)
+Olearius, Johann der Sohn Johannis in Halle. In: Johann Heinrich Zedler: Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste. Band 25, Leipzig 1740, Spalte 1171–1173.
+Karl Dienst: Olearius, Johannes. In: Biographisch-Bibliographisches Kirchenlexikon (BBKL). Band 6, Bautz, Herzberg 1993, ISBN 3-88309-044-1, Sp. 1191–1192. (Artikel/Artikelanfang im Internet-Archive)
+Dryander, G. Müller: Olearius. In: Realencyklopädie für protestantische Theologie und Kirche (RE). 3. Auflage. Band 14, Hinrichs, Leipzig 1904, S. 355.
+Veronika Albrecht-Birkner: Pfarrerbuch der Kirchenprovinz Sachsen. Evangelische Verlagsanstalt, Leipzig 2007, ISBN 978-3-374-02138-3, S. 376.
+Roswitha Jacobsen: Weißenfels als Ort literarischer und künstlerischer Kultur im Barockzeitalter. Editions Rodopi, 1994, ISBN 90-5183-500-0.
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Literatur von und über Johannes Olearius im Katalog der Deutschen Nationalbibliothek
+Werke von und über Johannes Olearius in der Deutschen Digitalen Bibliothek
+Druckschriften von und über Johannes Olearius im VD 17.
+Lic. theol. Johannes Olearius – Umfassende genealogische Darstellung und Biographie
+Druckschriften von und über Johannes Olearius (1611–1684) in der Herzog August Bibliothek
+Normdaten (Person): GND: 10413660X (OGND, AKS)  | LCCN: n88085397  | VIAF: 52123211   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Olearius, Johannes
+
+
+ALTERNATIVNAMEN
+
+Olearius, Johann
+
+
+KURZBESCHREIBUNG
+
+evangelischer Theologe und Kirchenlieddichter
+
+
+GEBURTSDATUM
+
+17. September 1611
+
+
+GEBURTSORT
+
+Halle (Saale)
+
+
+STERBEDATUM
+
+24. April 1684
+
+
+STERBEORT
+
+Weißenfels
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Johannes_Olearius_(1611–1684)&oldid=184773129“
+Kategorien: Lutherischer Theologe (17. Jahrhundert)GeneralsuperintendentAutorLiteratur (17. Jahrhundert)Literatur (Deutsch)Hochschullehrer (Leucorea)Domprediger am Dom zu HallePerson (Weißenfels)KirchenlieddichterDeutscherGeboren 1611Gestorben 1684Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+EnglishEsperantoSuomiFrançaisNorskPortuguêsSvenska 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 16. Januar 2019 um 06:02 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.323","ppvisitednodes":{"value":1330,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8518,"limit":2097152},"templateargumentsize":{"value":1909,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  289.173      1 -total"," 38.36%  110.929      1 Vorlage:Normdaten"," 19.23%   55.602      2 Vorlage:JULGREGDATUM","  8.86%   25.618      1 Vorlage:ADB","  8.72%   25.220      1 Vorlage:DDB","  7.94%   22.968      1 Vorlage:VD17","  7.31%   21.131      4 Vorlage:Datum-n","  6.84%   19.791      1 Vorlage:VerzDtDrucke","  4.72%   13.642      1 Vorlage:Str_match","  3.68%   10.633      1 Vorlage:Zedler_Online"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1820501,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20190819014958","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Johannes Olearius (1611\u20131684)","url":"https:\/\/de.wikipedia.org\/wiki\/Johannes_Olearius_(1611%E2%80%931684)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q87418","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q87418","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-17T03:08:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f4\/Johannes_Olearius_%281611-1684%29.png","headline":"deutscher evangelischer Theologe"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":168,"wgHostname":"mw1267"});});
+
+

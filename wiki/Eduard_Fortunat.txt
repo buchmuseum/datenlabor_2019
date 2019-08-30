@@ -1,0 +1,282 @@
+
+
+
+
+Eduard Fortunat (Baden-Baden) – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Eduard_Fortunat_(Baden-Baden)","wgTitle":"Eduard Fortunat (Baden-Baden)","wgCurRevisionId":190473712,"wgRevisionId":190473712,"wgArticleId":506932,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Markgraf (Baden-Baden)","Person (Hunsrück)","Person (London)","Geboren 1565","Gestorben 1600","Mann","Markgraf (Baden-Rodemachern)"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai",
+"Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Eduard_Fortunat_(Baden-Baden)","wgRelevantArticleId":506932,"wgRequestId":"XWZjBwpAADgAACxXP0IAAABH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Eduard_Fortunat","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":190473712,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Eduard_Fortunat_(Baden-Baden)",
+"wgWikibaseItemId":"Q67719","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect",
+"ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eduard Fortunat (Baden-Baden)
+
+aus Wikipedia, der freien Enzyklopädie
+(Weitergeleitet von Eduard Fortunat)
+
+Zur Navigation springen
+Zur Suche springen
+ Eduard Fortunat von Baden-Rodemachern – Medaille um 1590
+Eduard Fortunat von Baden-Rodemachern (* 17. September 1565 in London; † 18. Juni 1600 in der Burg Kastellaun/Hunsrück) war von 1575 bis 1588 Markgraf der Markgrafschaft Baden-Rodemachern. 1588 bis 1594 regierte er die Markgrafschaft Baden-Baden. Er war wohl die zwielichtigste Persönlichkeit des Hauses Baden.[1]
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Ehe und Nachkommen
+3 Siehe auch
+4 Literatur
+5 Einzelnachweise
+6 Weblinks
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+ Territorien der Markgrafschaft Baden-Baden
+ Eduard Fortunat
+Eduard Fortunat war der Sohn des Markgrafen Christoph II. und der schwedischen Prinzessin Cäcilie Wasa. Königin Elisabeth I. hatte ihn aus der Taufe gehoben, ihm den Namen Edward gegeben und ihn wie ein Kind angenommen. Von seiner Mutter Cäcilie Wasa war er einen Lebensstil in Pracht und Prunk gewohnt.
+Als 1575 Christoph II. starb, übernahm Eduard Fortunat zunächst nur die Markgrafschaft Baden-Rodemachern. Erst 1588 nach dem Tod seines Cousins Philipp übernahm er die bereits stark verschuldete Markgrafschaft Baden-Baden; die Markgrafschaft Baden-Rodenmachern übergab er seinem Bruder Philipp III. Sein Lebensstil verschlimmerte die Situation weiter, sodass er Überlegungen anstellte, die Markgrafschaft an die Fugger zu verpachten oder zu verkaufen.
+Die Verschuldung und die nicht standesgemäße Beziehung mit der bürgerlichen Maria von Eicken,[2] die er am 13. März 1591 in Brüssel geheiratet hatte, veranlasste 1594 Ernst Friedrich von Baden-Durlach und dessen Bruder Georg Friedrich, die Markgrafschaft Baden-Baden zu besetzen, Eduard Fortunat musste fliehen. Die Kinder, die aus der Ehe mit Maria von Eicken, die er immer wieder hinterging, hervorgingen, erkannte sein Vetter Ernst Friedrich nie an.
+Nach dem Verlust seiner Markgrafschaft versuchte Eduard Fortunat 1594 auf der Yburg sein Vermögen durch Falschmünzerei und durch den Betrieb einer Alchemistenwerkstatt in den Kellergewölben zu mehren und stellte dazu den Alchimisten Francesco Muskatelli und seinen Gehilfen Paul Pestalozzi an. Nachdem sein Vetter immer mehr Druck auf ihn ausübte, beauftragte er noch im selben Jahr die beiden Italiener, den Markgrafen zu vergiften. Der Plan scheiterte und die beiden wurden in Durlach gevierteilt. Eduard Fortunat konnte fliehen und nahm Zuflucht auf der Burg Kastellaun in der ihm verbliebenen Grafschaft Sponheim. Danach trat er in den Niederlanden und in Polen in den Kriegsdienst gegen die Schweden ein.
+Unkonventionell wie sein Leben war auch sein abrupter Tod. Erst 35-jährig stürzte Eduard Fortunat am 18. Juni 1600 – vermutlich infolge zu reichlichen Alkoholgenusses – von einer Treppe der Burg Kastellaun zu Tode. Er fand zusammen mit seiner Gemahlin und der einzigen Tochter dieser Ehe, Anna Maria Lukretia, im Kloster Engelport nahe der Mosel seine letzte Ruhe.
+
+Ehe und Nachkommen[Bearbeiten | Quelltext bearbeiten]
+Eduard Fortunat heiratete am 13. März 1591 in Brüssel in aller Stille in einem Privathaus Maria von Eicken († 21. April 1636), die Tochter von Jobst von Eicken.[3] Eduard wollte Maria zunächst mit einer Scheinhochzeit täuschen, die ein als Priester verkleideter Soldat vornehmen sollte, doch der Betrugsversuch flog auf. Die Heimlichkeit der Hochzeit und die Tatsache, dass keinerlei rechtliche Regelungen über den Status von Maria und späterer Nachkommen getroffen wurden, deuten darauf hin, dass Eduard es sich offenhalten wollte, die Ehe später als morganatische Ehe zu interpretieren.[4] Eduard heiratete am 14. Mai 1593 Maria von Eicken in einer zweiten öffentlichen Zeremonie auf Schloss Hohenbaden, womit indirekt die Zweifelhaftigkeit der ersten Eheschließung ihre Bestätigung fand. Die geringe Wertschätzung die Eduard seiner doppelten Gemahlin entgegenbrachte wurde dadurch dokumentiert, dass er zur Trauungszeremonie in Pantoffeln erschien.[5] Am 30. Juli dieses Jahres wurde der Erbprinz geboren, der damit zumindest als eheliches Kind geboren wurde, wenn auch sein Recht zur Thronfolge weiter strittig blieb.
+Nachkommen Eduard Fortunats sind:
+
+Anna Maria Lukretia (* 1592 in Murano; † 1654 in Kastellaun)
+Wilhelm (* 30. Juli 1593 in Baden-Baden; † 22. Mai 1677 in Baden-Baden), Markgraf
+Hermann Fortunat (* 23. Januar 1595 in Rastatt; † 4. Januar 1665 in Kastellaun)
+Albrecht Karl (* 17. August 1598 in Kastellaun; † 23. Juni 1626 auf dem Hundschloss; hat sich durch Unvorsichtigkeit selbst erschossen)
+Siehe auch[Bearbeiten | Quelltext bearbeiten]
+Stammliste von Baden
+Liste der Markgrafen und Großherzöge von Baden#Regenten der Markgrafschaft Baden-Rodemachern
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Urte Schulz: Das schwarze Schaf des Hauses Baden. Markgraf Eduard Fortunatus, Casimir Katz Verl., Gernsbach 2012, ISBN 978-3-938047-61-3
+Arthur Kleinschmidt: Eduard Fortunat. In: Allgemeine Deutsche Biographie (ADB). Band 5, Duncker & Humblot, Leipzig 1877, S. 648 f.
+Friedrich Wielandt: Eduard Fortunat. In: Neue Deutsche Biographie (NDB). Band 4, Duncker & Humblot, Berlin 1959, ISBN 3-428-00185-0, S. 317 (Digitalisat).
+Johann Stephan Pütter: Ueber Mißheirathen Teutscher Fürsten und Grafen, Göttingen 1796, S. 125–135 Digitalisat in der Google-Buchsuche
+Johann David Köhler: Ein Haupt rarer Thaler des so berüchtigten Marggrafens zu Baaden in Baaden, EDUARD FORTUNATS, von A. 1590, in: Der Wöchentlichen Historischen Münz-Belustigung, 16. Theil, 16. Stück. 15. April 1744, S. 117–124 (Digitalisat in der Google-Buchsuche)
+Johann David Köhler: Rare einseitige Medaille, Eduard Fortunats, Marggrafens zu Baaden-Baaden, in: Der Wöchentlichen Historischen Münz-Belustigung, 8. Theil, 40. Stück.  1736, S. 313–320 (Digitalisat in der Google-Buchsuche)
+Werner Baumann: Ernst Friedrich von Baden-Durlach, Stuttgart 1962
+Christoph Meiners, Ludwig Timotheus Spittler (Hrsg.): Eduard von Baden und Maria von Eickinn, in: Göttingisches Historisches Magazin. 4. Band, Hannover 1789, S. 174–192 (Digitalisat)
+Johann Christian Sachs: Einleitung in die Geschichte der Marggravschaft und des marggrävlichen altfürstlichen Hauses Baden, Carlsruhe 1769, Dritter Theil, S. 283–314 in der Google-Buchsuche
+Alfons Friderichs (Hrsg.): Fortunat, Eduard, In: Persönlichkeiten des Kreises Cochem-Zell, Kliomedia, Trier 2004, ISBN 3-89890-084-3, S. 110.
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+
+↑ s. Köhler: Rare einseitige Medaille ..., S. 313/314
+
+↑ s. Pütter S. 125–135
+
+↑ Spittler zieht die adelige Herkunft der Maria von Eicken in Zweifel und beschreibt sie als Kammerjungfer eines Bürgers in Brüssel; Spittler S. 176
+
+↑ Spittler S. 177–178
+
+↑ s. Spittler S. 189
+
+
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Eduard Fortunat in der Rheinland-Pfälzischen Personendatenbank, abgerufen am 28. Dezember 2018
+ Commons: Eduard Fortunat – Sammlung von Bildern, Videos und Audiodateien
+VorgängerAmtNachfolgerPhilipp II.Markgraf von Baden-Baden 1588–1596WilhelmChristoph II.Markgraf von Baden-Rodemachern 1575–1588Philipp III.
+Normdaten (Person): GND: 132102315 (OGND, AKS)  | LCCN: n2013073474  | VIAF: 77465392   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Fortunat, Eduard
+
+
+ALTERNATIVNAMEN
+
+Baden-Rodemachern, Eduard Fortunat von (vollständiger Name)
+
+
+KURZBESCHREIBUNG
+
+Markgraf von Baden-Baden
+
+
+GEBURTSDATUM
+
+17. September 1565
+
+
+GEBURTSORT
+
+London
+
+
+STERBEDATUM
+
+18. Juni 1600
+
+
+STERBEORT
+
+Kastellaun, Hunsrück
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Eduard_Fortunat_(Baden-Baden)&oldid=190473712“
+Kategorien: Markgraf (Baden-Baden)Person (Hunsrück)Person (London)Geboren 1565Gestorben 1600MannMarkgraf (Baden-Rodemachern)
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+In anderen Projekten
+
+
+Commons 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+БългарскиΕλληνικάEnglishEspañolFrançaisItaliano日本語NederlandsPolskiРусскийSvenska 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 16. Juli 2019 um 11:01 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.396","ppvisitednodes":{"value":1139,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9691,"limit":2097152},"templateargumentsize":{"value":2353,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1366,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  258.846      1 -total"," 26.75%   69.247      1 Vorlage:ADB"," 25.33%   65.555      3 Vorlage:Wikidata-Registrierung"," 23.69%   61.311      1 Vorlage:Commonscat"," 17.82%   46.123      1 Vorlage:Str_rightc"," 12.76%   33.039      1 Vorlage:Personenleiste"," 12.41%   32.134      1 Vorlage:Normdaten"," 11.79%   30.528      3 Vorlage:Google_Buch","  6.85%   17.728      1 Vorlage:NDB","  4.27%   11.051      1 Vorlage:Personendaten"]},"scribunto":{"limitreport-timeusage":{"value":"0.063","limit":"10.000"},"limitreport-memusage":{"value":1735539,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20190827114332","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Eduard Fortunat (Baden-Baden)","url":"https:\/\/de.wikipedia.org\/wiki\/Eduard_Fortunat_(Baden-Baden)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q67719","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q67719","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-06T21:49:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a8\/Eduard_Fortunat_2.JPG","headline":"Markgraf von Baden-Baden"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1261"});});
+
+

@@ -1,0 +1,248 @@
+
+
+
+
+Emanuel Silva-Tarouca – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Emanuel_Silva-Tarouca","wgTitle":"Emanuel Silva-Tarouca","wgCurRevisionId":176315066,"wgRevisionId":176315066,"wgArticleId":1841970,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Politischer Berater","Person am Wiener Hof","Ritter des Ordens vom Goldenen Vlies (Österreich) (18. Jahrhundert)","Person (Habsburgermonarchie vor 1804)","Geboren 1691","Gestorben 1771","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
+"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Emanuel_Silva-Tarouca","wgRelevantArticleId":1841970,"wgRequestId":"XWZjCQpAICsAALQrp64AAAAQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Emanuel_Teles_de_Silva","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":176315066,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia",
+"wgInternalRedirectTargetUrl":"/wiki/Emanuel_Silva-Tarouca","wgWikibaseItemId":"Q1334779","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=[
+"mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emanuel Silva-Tarouca
+
+aus Wikipedia, der freien Enzyklopädie
+(Weitergeleitet von Emanuel Teles de Silva)
+
+Zur Navigation springen
+Zur Suche springen
+ Emanuel Silva-Tarouca
+Emanuel Teles da Silva, Graf von Silva-Tarouca (* 17. September 1691 in Lissabon, Portugal; † 8. März 1771 in Wien) war Hofbaumeister in Wien und Berater Maria Theresias.
+Er war der Sohn des in Wien verstorbenen portugiesischen Botschafters zur Zeit Karls VI. Sein vollständiger Name lautet Silva de Meneses e Castro, in zeitgenössischer Schreibweise Tellez da Sylva de Meneses et Castro. In Wien übernahm er den Grafentitel seines Vaters in seinen Namen und wurde Silva-Tarouca genannt. Diese Namensform ging auf seine Nachkommen über.
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Familie
+3 Literatur
+4 Weblinks
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Er kämpfte 1716/17 im kaiserlichen Heer gegen die Türken, um 1720 kam er an den Wiener Hof. Er gewann das Vertrauen Kaiser Karls VI., der ihm seine Tochter Maria Theresia zur Ausbildung in staatspolitischen Angelegenheiten anvertraute.
+Ab 1740 war er Präsident des Niederländischen Rates, von 1744 bis 1749 bekleidete er das Amt des Hofbaudirektors.
+Unter nicht ganz geklärten Umständen stieg er zur grauen Eminenz der Regierung Maria Theresias auf, ohne dass sein Posten je amtlich definiert worden wäre. Zu Beginn ihrer Regierungszeit arbeitete er für sie sogar einen detaillierten Stundenplan aus, damit sich die junge Herrscherin nicht zu viel dem Vergnügen widmete.
+1740 ließ sie ihn wissen, dass es zu seinen Aufgaben zählt, ohne Unterlass zu sagen, wo sie fehle, die Mängel ihres Charakters zu erforschen und ihr offen mitzuteilen. Er wurde zu ihrem engsten Vertrauten am Hof und Maria Theresia hielt täglich mit ihm Beratungen ab. In Bezug auf die Reformen der Herrscherin verdankt ihm Österreich wahrscheinlich mehr als aus den spärlichen Daten seiner Biographie bekannt ist.
+Obwohl der Obersthofmeister Fürst Khevenhüller–Metsch über ihn schrieb, er sei l’ami de l’Impératrice (der Freund der Kaiserin), schwieg dieser stets diskret über sein Naheverhältnis zur Herrscherin.
+Silva-Tarouca führte über seine Unterredungen kein Tagebuch und schrieb auch keine Memoiren. Wesentliche Quelle zu seiner Person sind seine Briefe, die in verschiedenen Archiven überliefert sind.
+In Wien besaß er das spätere Palais Erzherzog Albrecht, den Sitz der heutigen Albertina. Er ließ das Palais 1742 bis 1745 umbauen. Grundstücke an der Penzinger Straße, auf denen er 1745 das Palais Cumberland erbauen ließ, waren ebenfalls in seinem Besitz. 1768 erwarb er die Herrschaft Čechy pod Kosířem in Mähren und richtete sie als Familienfideikommiss ein.
+
+Familie[Bearbeiten | Quelltext bearbeiten]
+Er war mit Johanna Amalie von Schleswig-Holstein-Sonderburg-Beck (* 3. Dezember 1719; † 30. Oktober 1774) der Tochter des Generals  Friedrich Wilhelm von Schleswig-Holstein-Sonderburg-Beck. Das Paar hatte folgende Kinder:
+
+Maria Theresia Teles  (* 30. Dezember 1741; † unbekannt) ∞  Franz Joseph von Wurmbrand-Stuppach  (* 4. April 1737; † 12. Februar 1806)
+Franz Stephan (* 30. Januar 1750; † 5. März 1797)  ∞ Gräfin Maria Christina Gabrielle von Schönborn-Heussenstamm  (* 20. September 1754; † 25. August 1797)
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Constantin von Wurzbach: Sylva-Taroucca, Emanuel Tellez Graf. In: Biographisches Lexikon des Kaiserthums Oesterreich. 41. Theil. Kaiserlich-königliche Hof- und Staatsdruckerei, Wien 1880, S. 89–98 (Digitalisat).
+Egbert Silva-Tarouca: Der Mentor der Kaiserin. Der weltliche Seelenführer Maria Theresias. Wien 1960
+Stephan Vajda: Felix Austria. Eine Geschichte Österreichs. Verlag Carl Überreuter, Wien 1980, ISBN 3-8000-3168-X
+Sabine-Eva Janik: Die Albertina und ihre Bewohner. Wien 2003 [Online (Memento vom 28. September 2007 im Internet Archive)]
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Eintrag zu Emanuel Silva-Tarouca im Austria-Forum (im AEIOU-Österreich-Lexikon)
+Die Silva’s in Österreich
+Normdaten (Person): GND: 119478609 (OGND, AKS)    | VIAF: 15581171   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Silva-Tarouca, Emanuel
+
+
+ALTERNATIVNAMEN
+
+Silva-Tarouca, Emanuel Graf; Silva, Emanuel Teles da; Silva de Meneses e Castro, Emanuel Teles da; Sylva de Meneses et Castro, Emanuel Tellez da
+
+
+KURZBESCHREIBUNG
+
+politischer Berater Maria Theresias und Architekt des Barock
+
+
+GEBURTSDATUM
+
+17. September 1691
+
+
+GEBURTSORT
+
+Lissabon
+
+
+STERBEDATUM
+
+8. März 1771
+
+
+STERBEORT
+
+Wien
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Emanuel_Silva-Tarouca&oldid=176315066“
+Kategorien: Politischer BeraterPerson am Wiener HofRitter des Ordens vom Goldenen Vlies (Österreich) (18. Jahrhundert)Person (Habsburgermonarchie vor 1804)Geboren 1691Gestorben 1771Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+ČeštinaFrançais 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 9. April 2018 um 21:52 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.198","ppvisitednodes":{"value":1046,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8661,"limit":2097152},"templateargumentsize":{"value":3518,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  175.432      1 -total"," 31.17%   54.679      1 Vorlage:Normdaten"," 26.59%   46.640      1 Vorlage:Austriaforum"," 22.19%   38.931     16 Vorlage:Str_left"," 20.45%   35.874      1 Vorlage:BLKÖ"," 17.39%   30.512      1 Vorlage:Webarchiv","  7.76%   13.619      1 Vorlage:Webarchiv/Wayback","  4.58%    8.040     32 Vorlage:Str_trim","  4.14%    7.267      1 Vorlage:Personendaten","  4.05%    7.105      2 Vorlage:Wikidata-Registrierung"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":1923812,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20190817185552","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Emanuel Silva-Tarouca","url":"https:\/\/de.wikipedia.org\/wiki\/Emanuel_Silva-Tarouca","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1334779","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1334779","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-04T16:43:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0d\/Emanuel.jpg","headline":"politischer Berater Maria Theresias und Architekt des Barock"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":146,"wgHostname":"mw1322"});});
+
+

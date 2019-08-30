@@ -1,0 +1,250 @@
+
+
+
+
+Laurentius Lindemann – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Laurentius_Lindemann","wgTitle":"Laurentius Lindemann","wgCurRevisionId":177956434,"wgRevisionId":177956434,"wgArticleId":8604402,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Rektor (Universität Greifswald)","Hochschullehrer (Universität Greifswald)","Hochschullehrer (Leucorea)","Rechtswissenschaftler (16. Jahrhundert)","Deutscher","Geboren 1520","Gestorben 1585","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
+"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Laurentius_Lindemann","wgRelevantArticleId":8604402,"wgRequestId":"XWMTHApAICMAAGLgGCoAAAAF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":177956434,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q19513360","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc",
+"mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Laurentius Lindemann
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+Laurentius Lindemann auch: Lorenz Lindemann (* 17. September 1520 in Leipzig; † 13. November 1585 in Großsedlitz), war ein deutscher Rechtswissenschaftler und sächsischer Staatsmann.
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Literatur
+3 Weblinks
+4 Einzelnachweise
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Laurentius war der Sohn des späteren Wittenberger Professors Caspar Lindemann und dessen Frau Margarethe Thümmel. Im Wintersemester 1532/33 wurde er an der Universität Wittenberg immatrikuliert.[1] Seine Ausbildung setzte er im Wintersemester 1535 an der Universität Leipzig fort[2] und avancierte im Januar 1538 in Wittenberg zum Magister der philosophischen Wissenschaften.[3] Danach verfolgte er juristische Studien, wobei hier vor allem Hieronymus Schurff sein prägender Lehrer wurde. Diesem folgte er 1547 an die Universität Frankfurt/Oder,[4] wo er im selben Jahr zum Doktor der Rechte promovierte.[5] Kurz darauf zog er an die Universität Greifswald,[6] wo er Professor des römischen Rechts, zugleich Rat des Herzogs Philipp von Pommern wurde und 1548 Rektor der Hochschule.[7] Am 10. Januar 1549 erhielt Lindemann eine Substitutsprofessur für Kirchenrecht an der Universität Wittenberg. Im Folgejahr wurde er ordentlicher Professor, war im Wintersemester 1550/51 Dekan der juristischen Fakultät, im Sommersemester 1552 war er ganzjährig Rektor der Alma Mater und stieg bis 1555 in die erste juristische Professur in Wittenberg auf.
+Bereits am 7. Januar 1554 wurde er kursächsischer Rat in Dresden und beteiligte sich als Abgesandter Sachsens in verschiedenen politisch rechtlichen Missionen. 1558 wurde er sächsischer Hofrat und Vizekanzler des sächsischen Kurfürsten August. Die staatsgeschäftliche Beanspruchung bewirkte, dass er sich 1561 mit Erlaubnis des Kurfürsten eine Substituten für den Vorlesungsbetrieb an der Wittenberger Hochschule erwählen konnte. Dieser wurde Justus Jonas der Jüngere. Als führender Repräsentant der sächsischen Hochschule wurde er immer mehr in sächsische Staatsgeschäfte involviert, so dass er schließlich 1562 völlig am Hof in Dresden tätig war. 1563 wurde Lindemann in den Adelsstand erhoben und war für seinen Kurfürsten als Gesandter auf mehreren Reichs-, sächsischen Landes- und Kreistagen aktiv. 1574 beteiligte er sich an den schwierigen Verhandlungen mit der Wittenberger Universität über Abweichungen von der reinen Lehre Martin Luthers. Nach dem Tod seines einstigen Mitstreiters Georg Cracow wurde Lindemann 1576 als Landrat aus sächsischen Hofdiensten abgeschoben. In dieser Eigenschaft ist er abermals bei mehreren sächsischen Landtagen zu finden.
+
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Helmar Junghans: Verzeichnis der Rektoren, Prorektoren, Dekane, Professoren und Schloßkirchenprediger der Leucorea. In: Irene Dingel, Günther Wartenberg: Georg Major (1502–1574). Ein Theologe der Wittenberger Reformation. Leipzig 2005, ISBN 3-374-02332-0, S. 248.
+Walter Friedensburg: Geschichte der Universität Wittenberg. Niemeyer, Halle 1917, S. 266 f. (online)
+Lindemann (Laurentius). In: Johann Heinrich Zedler: Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste. Band 17, Leipzig 1738, Spalte 1369.
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Familienblatt der Lutheriden-Vereinigung. Hildesheim, 1991, Heft 15, 66 Jg., S. 19 PDF
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+
+↑ Karl Eduard Förstemann: Album Academiae Vitebergensis. Leipzig 1841, S. 148, Sp. a, Nr. 12
+
+↑ Georg Erler: Die Matrikel der Universität Leipzig. Band 3, Giesecke & Devrient, Leipzig 1902, S. 501. (online)
+
+↑ Julius Köstlin: Die Baccalaurei und Magistri der Wittenberger philosophischen Fakultät 1538–1546 und die öffentlichen Disputationen derselben Jahre. Max Niemeyer, Halle (Saale) 1890, S. 10.
+
+↑ Georg Liebe, Emil Theuner, Ernst Friedländer: Aeltere Universitäts-Matrikeln. I. Universität Frankfurt a. O. Verlag S. Hirzel, Leipzig 1887, S. 102, Sp. 5.
+
+↑ Michael Höhle: Universität und Reformation. Die Universität Frankfurt (Oder) von 1506 bis 1550. Böhlau, Köln 2002, ISBN 3-412-15101-7, S. 543.
+
+↑ Georg Liebe, Emil Theuner, Herman Granier, Herman v. Petersdorff: Aeltere Universitäts-Matrikeln. II Universität Greifswald. Band 1, Verlag S. Hirzel, Leipzig 1893, S. 217, Sp. a, Zeile 50 und S. 220, Sp. a, Zeile 20.
+
+↑ Georg Liebe, Emil Theuner, Herman Granier, Herman v. Petersdorff: Aeltere Universitäts-Matrikeln. II Universität Greifswald. Band 1, Verlag S. Hirzel, Leipzig 1893, S. 223, Zeile 10 (Zeile 20 ein Sohn Caspar Lindemann immatrikuliert) und Inschriftenkatalog Greifswald
+
+
+Normdaten (Person): GND: 130336874 (OGND, AKS)    | VIAF: 70034566   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Lindemann, Laurentius
+
+
+ALTERNATIVNAMEN
+
+Lindemann, Lorenz
+
+
+KURZBESCHREIBUNG
+
+Rechtswissenschaftler und sächsischer Staatsmann
+
+
+GEBURTSDATUM
+
+17. September 1520
+
+
+GEBURTSORT
+
+Leipzig
+
+
+STERBEDATUM
+
+13. November 1585
+
+
+STERBEORT
+
+Großsedlitz
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Laurentius_Lindemann&oldid=177956434“
+Kategorien: Rektor (Universität Greifswald)Hochschullehrer (Universität Greifswald)Hochschullehrer (Leucorea)Rechtswissenschaftler (16. Jahrhundert)DeutscherGeboren 1520Gestorben 1585Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+
+Links hinzufügen 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 2. Juni 2018 um 07:50 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.150","ppvisitednodes":{"value":452,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3569,"limit":2097152},"templateargumentsize":{"value":514,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3072,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  115.899      1 -total"," 79.92%   92.626      1 Vorlage:Normdaten","  8.57%    9.938      1 Vorlage:Zedler_Online","  7.71%    8.931      2 Vorlage:Wikidata-Registrierung","  6.06%    7.028      1 Vorlage:Personendaten","  3.04%    3.525      2 Vorlage:IstZahl"]},"scribunto":{"limitreport-timeusage":{"value":"0.017","limit":"10.000"},"limitreport-memusage":{"value":819723,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20190823083922","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Laurentius Lindemann","url":"https:\/\/de.wikipedia.org\/wiki\/Laurentius_Lindemann","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19513360","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19513360","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-02-20T15:03:58Z","headline":"Rechtswissenschaftler und s\u00e4chsischer Staatsmann"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1333"});});
+
+

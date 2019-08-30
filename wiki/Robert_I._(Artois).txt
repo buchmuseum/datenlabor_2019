@@ -1,0 +1,279 @@
+
+
+
+
+Robert I. (Artois) – Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robert_I._(Artois)","wgTitle":"Robert I. (Artois)","wgCurRevisionId":191310832,"wgRevisionId":191310832,"wgArticleId":1596373,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Graf (Artois)","Prinz (Frankreich)","Kreuzfahrer (Sechster Kreuzzug)","Familienmitglied des Hauses Frankreich-Artois","Franzose","Geboren 1216","Gestorben 1250","Mann"],"wgBreakFrames":!1,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.",
+"Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Robert_I._(Artois)","wgRelevantArticleId":1596373,"wgRequestId":"XWV8CApAIC4AALzNSoQAAABH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":191310832,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q375325","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced",
+"ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robert I. (Artois)
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+Zur Navigation springen
+Zur Suche springen
+ Robert von Artois (zu erkennen am roten Turnierkragen im Wappen) fällt in der Schlacht von al-Mansura. Daneben sein trauernder Bruder, der heilige Ludwig. Miniatur aus dem 14. Jahrhundert.
+Robert I., genannt der Tapfere (* vermutlich 17. September 1216; † 8. Februar 1250 bei al-Mansura), war von 1237 bis 1250 ein Graf von Artois. Er war der Stammvater des Hauses Artois.
+Robert war der zweite von insgesamt vier das Erwachsenenalter erreichenden Söhnen König Ludwigs VIII. des Löwen († 1226) und dessen Ehefrau Blanka von Kastilien († 1252). Sein älterer Bruder war der König und spätere Heilige Ludwig IX. (1214–1270), seine jüngeren Brüder waren Alfons von Poitiers (1220–1271) und Karl von Anjou (1226–1285).
+
+Inhaltsverzeichnis
+
+1 Leben
+2 Vorfahren
+3 Nachfahren
+4 Weblinks
+5 Einzelnachweise
+
+
+Leben[Bearbeiten | Quelltext bearbeiten]
+Trotz seines unbeschwerten Charakters und seiner ritterlichen Gesinnung galt Robert als Lieblingsbruder König Ludwigs IX., der eher das Leben eines Mönches führte. Entsprechend dem Willen seines Vaters wurde Robert von seinem Bruder 1237 in den Ritterstand erhoben und mit der Grafschaft Artois sowie den Herrschaften Saint-Omer, Aire-sur-la-Lys, Hesdin, Bapaume, Lens und Poissy (dem Geburtsort des heiligen Ludwig) belehnt. Im selben Jahr heiratete Robert am 14. Juni in Compiègne Mathilde von Brabant († 1288), eine Tochter des Herzogs Heinrich II. von Brabant und der Maria von Staufen. Über ihre Mutter war Mathilde eine Cousine des Kaisers Friedrich II., zu dem die Beziehungen durch diese Hochzeit gefestigt werden sollten. Im Jahr 1240 weigerte er sich, einem Wunsch von Papst Gregor IX. nachzukommen und für den deutschen Thron als Gegner der Staufer zu kandidieren.
+Nachdem es zwischen seinem Bruder und dem König Theobald I. von Navarra, der auch Graf der Champagne war, zu Streitigkeiten gekommen war, fand im Juni 1236 im Schloss Vincennes ein Friedensgespräch zwischen den beiden Königen statt. Dabei hatte Robert aus einem Fenster des Schlosses eine Schüssel voll Quark auf den Kopf des Königs von Navarra geworfen, worüber sein Bruder sehr erbost war. Angeblich war Robert eifersüchtig auf den König von Navarra, der seine Zuneigung zu Roberts Mutter offen besang.
+1239 trug Robert gemeinsam mit seinem Bruder, barfuß und in einem Büßerhemd gekleidet, die Dornenkrone in einer Prozession von Villeneuve-l’Archevêque nach Paris.
+Robert begleitete seinen Bruder 1248 auf den sechsten Kreuzzug nach Ägypten, für dessen katastrophales Scheitern er maßgeblich mitverantwortlich war. Er schrieb nach der Einnahme von Damiette im Juni 1249 einen in Latein verfassten Brief an seine Mutter, indem er den bisherigen Kreuzzugverlauf schilderte. Aber im Gegensatz zu den Briefen des Jean de Beaumont und des Jean Sarrasin bieten seine oberflächlich gehaltenen Beschreibungen nur einen geringen Informationsgehalt.[1] Anschließend marschierte das Kreuzfahrerheer Richtung Kairo, nur die Stadt al-Mansura blockierte ihnen den Weg und musste daher genommen werden. Am 8. Februar 1250 überquerte das Heer den Nilarm Bar as-Saghir, um an das Ufer vor der Stadt zu gelangen. Robert führte dabei die aus den Tempelrittern und einem französisch-englischen Kontingent bestehende Vorhut. Am anderen Flussufer angekommen, schlug er ein ägyptisches Heer in die Flucht, das die Stadt mit offenen Toren zurückgelassen und scheinbar aufgegeben hatte. Entgegen den Warnrufen seines Bruders, der noch das Hauptheer über den Nil führte, und der Ermahnungen des Tempelgroßmeisters Guillaume de Sonnac entschied sich Robert für einen sofortigen Angriff auf die Stadt im Glauben, sie im Handstreich einnehmen zu können. Robert lief aber in eine Falle der Elitekrieger der Mameluken unter ihrem Anführer Baibars al-Bunduqdari, welche die Tore nach dem Einfall der Kreuzritter verschlossen und sie in den engen Straßen der Stadt in einen Nahkampf verwickelten. Robert und nahezu die gesamte Vorhut wurden in der Stadt getötet, von ca. 280 Rittern überlebten nicht mehr als fünf, darunter der schwerverletzte Tempelgroßmeister.
+Ludwig IX. unternahm später erfolglos den Versuch, seinen Bruder und alle anderen am 8. Februar 1250 gefallenen Kreuzritter vom Papst als Märtyrer anerkennen zu lassen. Der Kreuzzugslegat Odo von Châteauroux verfasste einen Sermon auf seinen Tod.[2]
+Wegen seines persönlichen Interesses für die geographische Beschaffenheit der Erde, gab Robert im Jahr 1246 bei Gautier de Metz das Prosawerk l'image du Monde (das Aussehen der Welt) in Auftrag.
+
+ Matthäus Paris notierte in seiner Historia Anglorum (13. Jahrhundert) einige bei al-Mansura gefallene Kreuzritter mit ihren Wappen. Neben dem Wappen des Robert von Artois (zweites von rechts) zeichnete er einen fallenden schwarzen Vogel, während das Wappen des englischen Ritters William Longespée (links außen) von einer weißen Taube getragen und von göttlichen Händen geleitet in den Himmel aufsteigt.
+Vorfahren[Bearbeiten | Quelltext bearbeiten]
+
+ 
+
+ Ludwig VII. der Jüngere(1120–1180) Adele von Champagne(1140–1206) Balduin V. von Hennegau(1150–1195) Margarete I. von Flandern(1145–1194) Sancho III. von Kastilien(1133–1158) Blanka von Navarra(?–1157) Heinrich II. Plantagenet(1133–1189) Eleonore von Aquitanien(1122–1204) 
+        
+                                     
+
+   Philipp II. August(1165–1223)     Isabelle von Hennegau(1170–1190)     Alfons VIII. von Kastilien(1155–1214)     Eleonore Plantagenet(1161–1214)   
+            
+                                   
+
+       Ludwig VIII. der Löwe(1187–1226)             Blanka von Kastilien(1188–1252)       
+              
+                                  
+
+               Robert I. von Artois(1216–1250)               
+
+ 
+
+
+
+
+Nachfahren[Bearbeiten | Quelltext bearbeiten]
+Robert und Mathilde von Brabant hatten zwei Kinder:
+
+Blanche (1248–1302)
+⚭ 1269 mit König Heinrich I. von Navarra († 1274)
+⚭ 1276 mit Edmund Crouchback († 1296) Earl of Lancaster, Cornwall und Leicester
+Robert II. (1250–1302), Graf von Artois
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Commons: Robert I. – Sammlung von Bildern, Videos und Audiodateien
+Robert I. der Tapfere, Materialsammlung bei mittelalter-genealogie.de
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+
+↑ siehe Anhang zu Jean Sarrasin, Lettre à Nicolas Arrode (1249) ediert von Alfred L. Foulet in Lettres Françaises du XIIIe siècle (Paris, 1924)
+
+↑ Sermo in anniversario Roberti comitis Attrabatensis at aliorum nobilitum qui interfecti fuerunt a Sarracenis apud Mansuram in Egipto, hrsg. von Penny J. Cole: The Preaching of the Crusades to the Holy Land, 1095-1270 (Cambridge, MA, 1991), appendix D, S. 235–239
+
+
+VorgängerAmtNachfolger---Graf von Artois 1237–1250Robert II.
+Normdaten (Person): GND: 137409753 (OGND, AKS)    | VIAF: 81604884   | Wikipedia-Personensuche
+
+
+Personendaten
+
+
+NAME
+
+Robert I.
+
+
+ALTERNATIVNAMEN
+
+Robert der Tapfere
+
+
+KURZBESCHREIBUNG
+
+Graf von Artois (1237–1250)
+
+
+GEBURTSDATUM
+
+unsicher: 17. September 1216
+
+
+STERBEDATUM
+
+8. Februar 1250
+
+
+STERBEORT
+
+al-Mansura
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Robert_I._(Artois)&oldid=191310832“
+Kategorien: Graf (Artois)Prinz (Frankreich)Kreuzfahrer (Sechster Kreuzzug)Familienmitglied des Hauses Frankreich-ArtoisFranzoseGeboren 1216Gestorben 1250Mann
+
+
+
+
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+In anderen Projekten
+
+
+Commons 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+العربيةБеларускаяБългарскиCatalàČeštinaΕλληνικάEnglishEspañolSuomiFrançaisMagyarItaliano日本語NederlandsPolskiPortuguêsRomânăРусскийSlovenčinaСрпски / srpskiWest-Vlams 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 13. August 2019 um 18:27 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.302","ppvisitednodes":{"value":7477,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":69116,"limit":2097152},"templateargumentsize":{"value":35594,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":906,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  155.360      1 -total"," 38.25%   59.422      3 Vorlage:Wikidata-Registrierung"," 37.49%   58.244      1 Vorlage:Commonscat"," 26.54%   41.229      9 Vorlage:Stammbaum"," 18.88%   29.330      9 Vorlage:Stammbaum/step2"," 15.30%   23.771      1 Vorlage:Folgenleiste"," 10.74%   16.693      1 Vorlage:Normdaten","  4.65%    7.230      1 Vorlage:Personendaten","  2.09%    3.241      1 Vorlage:Stammbaum/Start","  1.73%    2.690      1 Vorlage:Stammbaum/Ende"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"10.000"},"limitreport-memusage":{"value":1297566,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20190827185256","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Robert I. (Artois)","url":"https:\/\/de.wikipedia.org\/wiki\/Robert_I._(Artois)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q375325","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q375325","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-07-04T12:45:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/af\/Mansura.jpg","headline":"Graf von Artois"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":490,"wgHostname":"mw1325"});});
+
+

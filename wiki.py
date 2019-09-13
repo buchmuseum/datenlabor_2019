@@ -30,8 +30,8 @@ soup = BeautifulSoup(html, 'html.parser')
 # Dann gehen wir zu seinem Eltern-Tag.
 # Und suchen das nächste Geschwistertag, in dem wir alle li-Elemente auswählen.
 # Um die Schritte zu verdeutlichen: print(section)
+#  section = soup.find("span", {'id': '18._Jahrhundert'}).find_parent().find_next_sibling().find_all('li')
 section = soup.find("span", {'id': 'Vor_dem_18._Jahrhundert'}).find_parent().find_next_sibling().find_all('li')
-#  section = soup.find("span", {'id': 'Vor_dem_18._Jahrhundert'}).find_parent().find_next_sibling().find_all('li')
 
 # Eine Liste für unsere Links
 links = []

@@ -48,12 +48,12 @@ for link in links:
     # Zur Kontrolle
     print(base_url + link)
     # Rufe die Seite auf
-    site = urlopen(base_url + link)
+    person_html = urlopen(base_url + link)
     # Parse die Seite
-    person_wiki = BeautifulSoup(site, 'html.parser')
+    personenseite = BeautifulSoup(person_html, 'html.parser')
     # Schreibe in das Verzeichnis "wiki" die entsprechende Text-Datei
     # Zusatz-Feature: Nutze urllib und wandle den Namen schön um.
     # Damit es keine Probleme mit den Dateiendungen gibt: Tilge die Pubkte
     # HINWEIS: Vorher muss das Verzeichnis wiki angelegt werden!
     with open("wiki/" + urllib.parse.unquote(link).strip(".") + ".txt", 'w') as f:
-        f.write(person_wiki.get_text())
+        f.write(personenseite.get_text())

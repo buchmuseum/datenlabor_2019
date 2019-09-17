@@ -62,9 +62,9 @@ for link in links:
     wikidata_link = soup_person.find('li', {'id': 't-wikibase'}).find('a')['href']
 
     # Erstelle einen Regulären Ausdruck für 'Q12345etc.'
-    pattern = re.compile(r'Q\d+')
+    # pattern = re.compile(r'Q\d+')
     # Suche nach diesem Pattern und verweise auf das Ergebnis mit 'id'
-    id = pattern.search(wikidata_link).group()
+    id = re.search('Q\d+', wikidata_link).group()
     # Jetzt kommt die Wikidata-Abfrage!
     # Rufe die deutsche Wikidata-Seite auf mit der entsprechende id
     page = wptools.page(wikibase=id, lang='de')
